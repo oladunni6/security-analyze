@@ -4,6 +4,7 @@ import logging
 from typing import Dict, List, Optional, Union
 import os
 from pathlib import Path
+from schemas.event_schemas import ProcessEventSchema
 
 # Configure logging
 logging.basicConfig(
@@ -34,8 +35,6 @@ class DataCleaner:
         # Fix invalid end times (end before start)
         invalid_end = df['end_time'] < df['start_time']
         df.loc[invalid_end, 'end_time'] = df.loc[invalid_end, 'start_time'] + pd.Timedelta(minutes=1)
-        
-        # Remove duplicates
         df = df.drop_duplicates(subset=['process_id', 'start_time', 'executable_path'])
         
         return df
@@ -61,7 +60,6 @@ class DataCleaner:
             df[port_col] = pd.to_numeric(df[port_col], errors='coerce')
             df = df[(df[port_col] >= 0) & (df[port_col] <= 65535)]
         
-        # Remove duplicates
         df = df.drop_duplicates(subset=['process_id', 'timestamp', 'dst_ip', 'dst_port'])
         
         return df
@@ -84,10 +82,7 @@ class DataCleaner:
                 lambda x: x.lower() if x and x != '###corrupt###' else None
             )
         
-        # Standardize file paths
         df['file_path'] = df['file_path'].str.replace('\\', '/')
-        
-        # Remove duplicates
         df = df.drop_duplicates(subset=['process_id', 'timestamp', 'file_path'])
         
         return df
@@ -97,7 +92,6 @@ class DataCleaner:
         """Clean and normalize registry events data."""
         logger.info("Cleaning registry events")
         
-        # Handle missing values
         df = df.dropna(subset=['process_id', 'registry_key', 'timestamp', 'operation'])
         
         # Standardize datetime
@@ -108,8 +102,6 @@ class DataCleaner:
         df['operation'] = df['operation'].apply(
             lambda x: x.lower() if x and x != '###CORRUPT###' else None
         )
-        
-        # Standardize registry key paths
         df['registry_key'] = df['registry_key'].str.replace('/', '\\')
         
         # Clean value data
@@ -121,7 +113,6 @@ class DataCleaner:
                     'null': None
                 })
         
-        # Remove duplicates
         df = df.drop_duplicates(subset=['process_id', 'timestamp', 'registry_key'])
         
         return df
