@@ -1,0 +1,1013 @@
+process_id,registry_key,operation,timestamp,value_name,value_data,user
+9864,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:48:12,,,janedoe
+1355,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:07:03,,,johndoe
+3441,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:44:27,,,janedoe
+2467,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:07:16,,,johndoe
+4866,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:10:45,,,janedoe
+1828,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:39:23,,,admin
+4022,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:57:02,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+6289,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:14:09,,,user1
+9201,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:59,,,admin
+6038,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:18:10,,,admin
+2749,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:04:08,,,admin
+6868,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:30:45,,,admin
+7874,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:27:18,,,johndoe
+6873,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:46:46,,,user1
+8504,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:14:14,,,johndoe
+1301,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:19:05,,,admin
+3053,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:58:54,,,janedoe
+3787,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:29:34,,,user1
+6438,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:38:25,,,admin
+2635,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:10:40,,,johndoe
+2494,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:07:25,,,janedoe
+8909,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:50,,,admin
+2943,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:10:55,,,admin
+1355,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:20:22,,,janedoe
+9747,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:49:03,,,johndoe
+3832,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:56:15,,,johndoe
+6759,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:24:17,,,johndoe
+100,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2026-03-01 09:00:00,,,janedoe
+6038,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:20:34,,,johndoe
+4450,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:51:26,,,admin
+7112,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:45:24,,,admin
+6328,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:11:19,,,johndoe
+3102,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:55:33,,,johndoe
+7018,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:37:00,,,user1
+7018,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:23:47,,,admin
+2200,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:27,,,user1
+1301,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:55:16,,,admin
+3662,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:07:44,,,admin
+9586,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:15:25,,,johndoe
+7945,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:47:27,,,user1
+7150,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:13:09,,,user1
+6254,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:40:25,,,admin
+2544,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:23:40,,,johndoe
+5989,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:51:22,,,admin
+9950,"HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,unexpected",modify,2025-03-01 09:30:19,,,user1
+5267,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:03:51,,,janedoe
+1848,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:27:24,,,johndoe
+2389,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:40:08,,,admin
+7859,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:26:12,,,admin
+8895,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:38:39,,,admin
+5794,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:40:00,,,admin
+9180,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:47:59,,,user1
+1136,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:49:19,,,johndoe
+1301,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:32:19,,,janedoe
+8207,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:17:11,,,admin
+2128,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:42:22,,,user1
+4115,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:01:48,,,johndoe
+2527,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:21:31,,,user1
+3435,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:48:08,,,user1
+8247,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:58:42,,,admin
+5843,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:18:29,,,admin
+5999,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:20:26,,,janedoe
+7745,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:33:07,,,user1
+3476,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:25:33,,,admin
+9534,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:34:15,,,johndoe
+5530,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:47:48,,,admin
+2388,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:20:39,,,janedoe
+8889,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:43:17,,,user1
+2730,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:16:00,,,janedoe
+9921,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:24:11,,,admin
+5612,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:11:19,,,johndoe
+5285,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:29:34,,,johndoe
+2382,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:50:11,,,johndoe
+8501,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:45,,,user1
+5415,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:01:13,,,user1
+9027,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:24:44,,,johndoe
+2245,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:50:19,,,user1
+4783,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:37:55,,,johndoe
+8314,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:00:35,,,janedoe
+9226,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:11:28,,,janedoe
+2827,"HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,unexpected",delete,2025-03-01 09:12:52,,,admin
+2609,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:58:06,,,johndoe
+1828,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:05:57,,,admin
+3847,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:53:47,,,janedoe
+6091,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:26:55,,,janedoe
+7145,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:27:12,,,admin
+2323,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:39:38,,,admin
+7971,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:32:34,,,user1
+8972,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:41:57,,,admin
+6914,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:39:14,,,user1
+1838,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:36:46,,,janedoe
+7112,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:06:23,,,admin
+8304,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:26,,,user1
+7311,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:31:29,,,johndoe
+5295,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:27:19,,,janedoe
+8245,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:59:24,,,johndoe
+5655,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:00:42,,,janedoe
+7498,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:11:50,,,janedoe
+2417,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:56:23,,,admin
+1188,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:14:02,,,johndoe
+7284,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:19:19,,,user1
+4292,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:48:50,,,johndoe
+3246,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:07:56,,,janedoe
+2294,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:44:57,,,janedoe
+8147,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:51:20,,,johndoe
+4454,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:41:15,,,admin
+8717,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:55:53,,,johndoe
+1999,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:58:35,,,janedoe
+7105,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:01:20,,,user1
+7440,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:11:46,,,user1
+1510,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:19:35,,,johndoe
+8371,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:05:18,,,johndoe
+8515,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:29:14,,,janedoe
+7527,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:39:05,,,admin
+6246,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:11:17,,,user1
+1944,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:25:50,,,admin
+9614,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:19:10,,,janedoe
+1188,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:50:06,,,admin
+9027,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:40:39,,,johndoe
+8972,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:42:43,,,johndoe
+3053,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:11:54,,,user1
+5973,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:21:55,,,user1
+4371,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:32:33,,,admin
+3506,###CORRUPT###HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:20:48,,,johndoe
+9507,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:15:09,,,johndoe
+5310,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:14:29,,,janedoe
+8612,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:05:37,,,janedoe
+9530,"HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,unexpected",delete,2025-03-01 09:57:57,,,janedoe
+2426,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:51:32,,,admin
+9180,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:25:06,,,admin
+2426,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:04:04,,,user1
+3421,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:39:22,,,johndoe
+6107,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:02:47,,,johndoe
+4566,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:16:07,,,johndoe
+1510,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:02:29,,,janedoe
+3527,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:40:25,,,janedoe
+4616,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:44:00,,,janedoe
+8504,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:32:09,,,user1
+8419,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:28:42,,,johndoe
+4012,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:52:58,,,janedoe
+8365,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:34:41,,,johndoe
+8490,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:46:09,,,user1
+9992,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:39:05,,,user1
+4767,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:32,,,johndoe
+8381,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:54:31,,,johndoe
+8921,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:38:58,,,janedoe
+9821,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:04:00,,,admin
+5922,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:37:12,,,janedoe
+3274,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:14:03,,,user1
+8972,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:39:26,,,user1
+9856,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:52:20,,,user1
+8303,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:33:29,,,johndoe
+7498,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:52:31,,,janedoe
+3931,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:50:20,,,johndoe
+2929,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:41:41,,,johndoe
+2029,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:10:46,,,user1
+8296,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:05:56,,,admin
+9095,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:07:42,,,janedoe
+3159,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:30:41,,,admin
+7132,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:42:06,,,admin
+5210,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:25:06,,,johndoe
+6309,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:15:50,,,user1
+5831,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:53:26,,,admin
+9653,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:28:16,,,janedoe
+8381,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:43:45,,,johndoe
+1769,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:44:02,,,johndoe
+3662,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:52:43,,,admin
+99999,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:13:38,,,admin
+1838,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:40:53,,,admin
+6799,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:30:27,,,admin
+3274,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:35:20,,,user1
+1999,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:36:05,,,user1
+6489,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:44:27,,,admin
+9614,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:45:05,,,johndoe
+4292,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:38:34,,,admin
+1370,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:05:08,,,admin
+6316,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:49:05,,,janedoe
+2843,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:27:43,,,admin
+2226,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:36:12,,,admin
+7022,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:31:08,,,johndoe
+6544,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:19:09,,,janedoe
+6878,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:43:01,,,janedoe
+5530,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:24,,,johndoe
+5934,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:55:19,,,johndoe
+6499,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:14:40,,,admin
+2821,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:10:39,,,admin
+8501,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:12:28,,,admin
+1845,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:17:03,,,johndoe
+9589,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:16:32,,,johndoe
+9918,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:02:52,,,janedoe
+3492,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:17:27,,,johndoe
+7767,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:53:10,,,janedoe
+9864,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:56:27,,,admin
+5430,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:24:02,,,johndoe
+2140,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:18:52,,,user1
+3739,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:15:45,,,janedoe
+5543,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:41:15,,,user1
+5780,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:25:27,,,user1
+1152,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:09:12,,,janedoe
+3140,###CORRUPT###HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:12:35,,,user1
+9976,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:00:45,,,janedoe
+7719,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:38:51,,,johndoe
+2771,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:25:44,,,user1
+2477,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2026-03-01 09:00:00,,,janedoe
+3246,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:59:03,,,janedoe
+1188,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:30:47,,,johndoe
+4559,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:08:17,,,admin
+8616,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:35:43,,,johndoe
+5097,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:13:39,,,user1
+5659,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:27:28,,,admin
+9608,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:19:46,,,janedoe
+6833,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:27:13,,,admin
+2302,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:54:05,,,johndoe
+5720,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:49:54,,,admin
+6393,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:13:56,,,janedoe
+8909,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:09:02,,,janedoe
+6061,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:43:59,,,user1
+3077,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:20:15,,,user1
+2544,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:03:47,,,user1
+3627,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:02:06,,,admin
+4977,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:42:29,,,user1
+3750,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:38:48,,,user1
+4082,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:00:17,,,user1
+6339,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2026-03-01 09:00:00,,,janedoe
+7390,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:06:51,,,janedoe
+2636,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:10:26,MaliciousApp,C:/Users/Admin/notepad.exe,johndoe
+7304,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:57:59,,,johndoe
+2233,###CORRUPT###HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:33:30,,,johndoe
+4495,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:15:23,,,johndoe
+6442,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:58:03,,,janedoe
+2592,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:33:27,,,admin
+6651,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:33:52,,,admin
+8921,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:51:43,,,johndoe
+9614,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:56:53,,,janedoe
+7132,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:13:12,,,johndoe
+5914,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:49:57,,,janedoe
+2388,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:19:33,,,admin
+4396,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:30:18,,,admin
+1084,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2026-03-01 09:00:00,,,admin
+4566,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:53:04,,,johndoe
+2775,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:06:07,,,johndoe
+1842,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:05:21,,,johndoe
+7098,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:02:31,,,admin
+7232,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:23:30,,,admin
+5641,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:21:54,,,janedoe
+4453,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:45:40,,,admin
+2654,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:27:11,,,admin
+7719,###CORRUPT###HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:19:27,,,admin
+8381,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:48:56,,,johndoe
+9013,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:01:15,,,user1
+5107,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:12:09,,,user1
+3745,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:40:10,,,admin
+2692,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:16:17,,,johndoe
+8909,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:42:53,,,admin
+5308,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:10:20,,,johndoe
+7809,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:06:10,,,user1
+7980,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:59:11,,,janedoe
+1152,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:09:01,,,janedoe
+6728,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:20:28,,,admin
+3430,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:52:01,,,janedoe
+8069,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:02:54,,,admin
+3931,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:40:55,,,johndoe
+6314,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:59:05,,,user1
+2419,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:55:20,,,johndoe
+1635,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:36:40,,,admin
+9984,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:23:24,,,admin
+6533,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:07:36,,,user1
+4460,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:10:01,,,janedoe
+2797,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:46:17,,,johndoe
+6544,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:24:48,,,admin
+4438,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:58:57,,,admin
+4626,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:19:44,,,johndoe
+4389,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:49:46,,,janedoe
+4166,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:54:52,,,janedoe
+7906,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:12:16,,,janedoe
+5526,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:11,,,janedoe
+9037,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:05:01,,,janedoe
+4396,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:55:29,,,janedoe
+4384,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:35:17,,,admin
+3527,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:26:51,,,user1
+1601,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:29:37,,,admin
+1190,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:44:10,,,admin
+6134,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:00:44,,,admin
+4006,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:11:15,,,user1
+8560,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:24:54,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+2235,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:41:31,,,user1
+3017,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:52:23,,,johndoe
+7579,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:15:47,,,user1
+4759,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:26:47,,,janedoe
+6152,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:02:56,,,janedoe
+8474,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:20:09,,,user1
+2843,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:02:59,,,johndoe
+1567,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:47:20,,,admin
+5641,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:08:29,,,janedoe
+9740,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:23:44,,,johndoe
+5837,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:52:01,,,user1
+9954,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:40:45,,,janedoe
+1188,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:03:34,,,user1
+4638,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:55:24,,,user1
+1771,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:21:08,,,johndoe
+6310,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:30:38,,,user1
+2481,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:13:25,,,johndoe
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:01:51,,,admin
+6544,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:04:37,,,admin
+1370,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:28:53,,,admin
+9037,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:23:40,,,user1
+7626,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:12:14,,,user1
+3222,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:40:19,,,johndoe
+4965,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:03:51,,,johndoe
+7646,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:14:35,,,janedoe
+2559,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:39:50,,,admin
+7943,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:39:05,,,janedoe
+9693,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:29:40,,,janedoe
+3658,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:22:32,,,user1
+7626,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:22:00,,,janedoe
+5059,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:27:01,,,admin
+8310,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:52:42,,,janedoe
+6759,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:57:51,,,user1
+9984,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:58:24,,,user1
+5469,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:01:44,,,user1
+8118,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:12:56,,,user1
+5221,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:53:40,,,janedoe
+2749,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:19:44,,,user1
+3354,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:21:59,,,janedoe
+3755,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:25:40,,,janedoe
+5088,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:16:09,,,johndoe
+7256,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:44:29,,,user1
+100,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:01:28,,,admin
+9614,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:28:53,,,johndoe
+4817,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:20:01,,,admin
+6905,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:41:16,,,janedoe
+2393,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:22:37,,,johndoe
+3925,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:47:06,,,janedoe
+3627,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:22:05,,,admin
+3664,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:13:46,,,janedoe
+2417,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:53:50,,,user1
+4974,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:12:34,,,janedoe
+7646,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:31:54,,,admin
+4384,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:28:16,,,johndoe
+3664,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:49:50,,,user1
+99999,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:38:07,,,admin
+4401,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:22:52,,,johndoe
+8515,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:09:14,,,admin
+7267,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:43:42,,,user1
+5695,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:33:51,,,janedoe
+6993,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:32:18,,,janedoe
+5695,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:28:41,,,admin
+2393,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:57:28,,,admin
+1653,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:16:43,,,johndoe
+7564,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:43:18,,,admin
+7112,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:19:18,,,janedoe
+1368,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:44:04,,,user1
+5644,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:40:04,,,johndoe
+1917,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:57:29,,,janedoe
+4016,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:02:20,,,johndoe
+6068,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:40:46,,,janedoe
+4965,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:20:14,,,user1
+7622,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:40:18,,,admin
+7105,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:10:42,,,johndoe
+6310,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:38:23,,,admin
+8405,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:47:46,,,janedoe
+9026,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:50:36,,,johndoe
+9837,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:33:58,,,johndoe
+1130,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:27:08,,,admin
+8405,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:57:50,,,janedoe
+99999,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:03:56,,,janedoe
+2052,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:35:38,,,user1
+6246,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:47:38,,,janedoe
+7204,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:20:53,,,johndoe
+6993,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:26:43,,,janedoe
+1842,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:42:33,,,user1
+5839,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:15,,,admin
+4637,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:03:27,,,admin
+1166,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:26:13,,,janedoe
+9019,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:22:01,,,janedoe
+5467,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:18:57,,,janedoe
+1256,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:22:00,,,admin
+5914,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:11:45,,,admin
+5794,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:00:28,,,johndoe
+5382,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:35:34,,,admin
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:24:23,,,johndoe
+7719,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:22:11,,,johndoe
+8289,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:58:49,,,janedoe
+8259,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:20:12,,,janedoe
+3150,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:36:28,,,user1
+3871,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:57:06,,,admin
+3535,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:30:53,,,admin
+7382,"HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,unexpected",create,2025-03-01 09:42:28,,,user1
+9280,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:34:59,,,johndoe
+5530,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:49:55,,,user1
+8371,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:02:04,,,admin
+9791,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:39:51,,,janedoe
+3188,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:59:15,,,user1
+8369,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:37:54,,,janedoe
+1838,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:41:36,,,johndoe
+6924,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:02:53,,,janedoe
+7765,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:51:19,,,admin
+9328,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:39:07,,,user1
+5813,###CORRUPT###HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:39:07,,,admin
+7971,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:09:34,,,johndoe
+3077,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:18:27,,,admin
+9238,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:24:09,,,admin
+2200,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:31:59,,,user1
+2330,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:06:34,,,janedoe
+1257,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:31:25,,,admin
+6289,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:44:48,,,janedoe
+4115,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:22,,,user1
+5664,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:00:15,,,janedoe
+2901,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:47:32,,,user1
+3724,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:16:42,,,johndoe
+7038,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:49:19,,,janedoe
+7626,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:28:40,,,admin
+2654,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:57:58,,,janedoe
+6415,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:27:30,,,admin
+5059,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:25:21,,,user1
+4784,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:20:07,,,johndoe
+8619,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:38:26,,,admin
+2559,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:28:41,,,user1
+2226,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:15:01,,,admin
+5140,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:10:20,,,admin
+4166,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:02:27,,,janedoe
+1930,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:03:47,,,johndoe
+1241,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:48:00,,,janedoe
+5475,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:28:43,,,admin
+6321,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:55:52,,,janedoe
+8618,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:35:06,,,johndoe
+1742,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:33:43,,,johndoe
+8054,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:34:48,,,user1
+5305,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:34:30,,,janedoe
+4300,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:14:01,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+8118,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:58:47,,,janedoe
+2692,###CORRUPT###HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:05:24,,,admin
+8414,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:12:18,,,johndoe
+9004,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:23,,,user1
+3745,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:38:42,,,user1
+2084,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:55:40,,,janedoe
+6533,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:26:29,,,user1
+6238,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:14:58,,,user1
+4171,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:26:27,,,janedoe
+6572,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:45:08,,,admin
+5625,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:16:33,,,johndoe
+3262,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:31:25,,,user1
+6747,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:13:02,,,admin
+4985,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:54:38,,,admin
+8822,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:52:17,,,johndoe
+1182,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:23:13,,,admin
+2083,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:24:24,,,user1
+4450,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:35:15,,,johndoe
+3262,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:25:05,,,admin
+3867,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:21:03,,,admin
+1918,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:51:22,,,johndoe
+1788,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:58:05,,,janedoe
+1612,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:07:46,,,admin
+4613,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:46,,,janedoe
+7767,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:42:10,,,user1
+8365,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:15:50,,,johndoe
+9873,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:17:58,,,johndoe
+2767,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:01:41,,,janedoe
+8245,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:20:21,,,user1
+5450,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:41:51,MaliciousApp,C:/Users/Admin/notepad.exe,janedoe
+8147,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:14:55,,,admin
+3207,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:24:14,,,user1
+5438,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:41:03,,,janedoe
+4079,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:38:11,,,admin
+2233,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:22:37,,,user1
+1794,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:15:28,,,johndoe
+4533,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:04:42,,,janedoe
+3877,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:54:24,,,user1
+3794,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:20:28,,,johndoe
+5314,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:26:32,,,johndoe
+5006,"HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,unexpected",delete,2025-03-01 09:37:11,,,johndoe
+2677,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:50:34,,,admin
+2052,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:22:59,,,admin
+5655,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:27:36,,,johndoe
+9918,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:57:11,,,admin
+8310,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:48:08,,,janedoe
+5530,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:55:21,,,user1
+3589,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:40:22,,,user1
+8889,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:13:44,,,johndoe
+9747,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:51:08,,,janedoe
+9084,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:48:16,,,user1
+8172,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:28:22,,,janedoe
+2139,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:28:21,,,user1
+3001,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:21:23,,,admin
+9918,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:09:10,,,user1
+4764,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:18:20,,,janedoe
+7999,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:28:54,,,admin
+9702,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:06:24,,,johndoe
+3441,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:10:13,,,johndoe
+2443,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:20:03,,,user1
+3662,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:53:02,,,janedoe
+2749,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:24:36,,,janedoe
+5914,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:55:32,,,user1
+6085,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:33:25,,,johndoe
+8625,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:10,,,johndoe
+3762,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:39:46,,,janedoe
+5308,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:25:38,,,admin
+2654,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:01:47,,,user1
+7564,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:50:43,,,user1
+6447,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:56:46,,,janedoe
+3877,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:32:50,,,user1
+7945,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:39:05,,,user1
+4292,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:15:56,,,janedoe
+3735,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:49:55,,,johndoe
+1207,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:39:36,,,admin
+7745,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:17:47,,,johndoe
+5040,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:14:35,,,johndoe
+9880,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:00:57,,,janedoe
+1567,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:44:24,,,user1
+1027,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:03:32,,,admin
+9609,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:49:21,,,user1
+5624,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:39:45,,,admin
+5088,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:17:04,,,janedoe
+9534,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:11:39,,,admin
+3793,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:37:27,,,janedoe
+99999,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:43:04,,,johndoe
+8419,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:51:56,,,admin
+6415,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2026-03-01 09:00:00,,,user1
+3159,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:16:41,,,user1
+2323,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:00:50,,,user1
+9027,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:03:42,,,johndoe
+6489,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:44:10,,,user1
+3353,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:11:28,,,user1
+4853,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:01:51,,,admin
+9813,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:21:30,,,user1
+9967,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:01:18,,,user1
+1301,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:14:02,,,user1
+4509,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:18:58,,,user1
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:12:34,,,user1
+9813,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:44:42,,,admin
+8612,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:58:02,,,johndoe
+1842,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:14:16,,,user1
+8859,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:43:48,,,janedoe
+3579,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:07:58,,,johndoe
+5557,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:22:54,,,user1
+1838,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:20:46,,,johndoe
+7018,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:41:36,,,johndoe
+4866,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:39:50,,,user1
+4533,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:50:53,,,janedoe
+9069,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:51:13,,,user1
+6185,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:18:53,,,user1
+2343,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:24:19,,,user1
+6094,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:26:11,,,admin
+6246,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:18:15,,,user1
+6432,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:59:33,,,johndoe
+9312,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:07:11,,,user1
+9456,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:27:36,,,janedoe
+1116,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:53:04,,,johndoe
+1635,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:45:31,,,janedoe
+3353,"HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,unexpected",create,2025-03-01 09:08:41,,,user1
+3950,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:59:53,,,johndoe
+5837,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:07:02,,,janedoe
+9305,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:58:56,,,user1
+1496,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:22:07,,,janedoe
+9646,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:37:26,,,user1
+1485,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:45:39,,,user1
+4833,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:20:12,,,admin
+2417,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:28:20,,,admin
+7150,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:06:55,MaliciousApp,C:/Users/Admin/notepad.exe,user1
+4678,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:47:25,,,admin
+9673,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:33:56,,,admin
+2438,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:32:11,,,janedoe
+5342,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:55:36,,,user1
+8381,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:26:23,,,user1
+6134,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:08:21,,,johndoe
+2465,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:53:27,,,johndoe
+2479,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:57:13,,,janedoe
+5938,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:57:30,,,user1
+9066,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:40:48,,,johndoe
+9507,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:00:46,,,admin
+7566,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:45:35,,,janedoe
+5198,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:49:03,,,janedoe
+2926,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:30:49,,,user1
+8827,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:14:54,,,admin
+2592,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2026-03-01 09:00:00,,,johndoe
+3150,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:53:36,,,user1
+7527,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:38:45,,,admin
+4869,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:13:17,,,johndoe
+6415,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:14:42,,,user1
+3653,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:46:48,,,admin
+7691,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:56:21,,,admin
+2234,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:59:02,,,admin
+5438,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:05:02,,,janedoe
+9369,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:00:42,,,admin
+5329,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:52:40,,,user1
+1355,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:02:38,,,janedoe
+2084,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:58:14,,,admin
+8491,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:51:03,,,user1
+6170,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:19:55,,,johndoe
+7626,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:20:38,,,johndoe
+2029,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:13:28,,,janedoe
+9004,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:38:36,,,user1
+2465,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:37:06,,,janedoe
+5640,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:06:45,,,user1
+1310,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:53:25,,,admin
+7737,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:09:14,,,admin
+5334,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:01,,,user1
+7807,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:57:22,,,janedoe
+5509,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:47:35,,,janedoe
+9148,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:32:31,,,janedoe
+5458,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:12:48,,,admin
+5509,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:02:33,,,admin
+1496,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:44:53,,,user1
+7859,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:17:01,MaliciousApp,C:/Users/Admin/notepad.exe,user1
+3267,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:08:07,,,user1
+3532,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:05:37,,,janedoe
+6085,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:40:44,,,janedoe
+4626,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:37:24,,,johndoe
+2654,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:58,,,user1
+4365,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:43:12,,,admin
+9246,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:48:18,,,johndoe
+1152,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:35:32,,,johndoe
+6246,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:34:35,,,admin
+2943,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:40:20,,,janedoe
+8710,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:14:12,,,user1
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:58:08,,,admin
+6916,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2026-03-01 09:00:00,,,user1
+6804,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:51:54,,,johndoe
+1404,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:26:07,,,admin
+6231,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:05:39,,,user1
+1257,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:00:20,,,janedoe
+3988,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:58:47,,,janedoe
+5780,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:53:06,,,janedoe
+4742,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:27:55,,,user1
+7524,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:36:36,,,user1
+2302,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:13:07,,,user1
+4727,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:09:33,,,user1
+1788,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:56,,,johndoe
+1842,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:32:09,,,johndoe
+4279,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:41:22,,,admin
+3539,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:02:39,,,admin
+4404,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:15:34,,,user1
+5450,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:23:41,,,janedoe
+4073,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:09:56,,,admin
+9328,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:54:02,,,johndoe
+4811,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:33:24,,,user1
+5999,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:01:59,,,admin
+5012,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:01:37,,,johndoe
+7284,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:16:33,,,user1
+1439,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:53:42,,,janedoe
+4308,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:54:36,,,user1
+7859,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:37:35,,,user1
+9515,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:01:32,,,admin
+6499,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:45:59,,,admin
+8515,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:45:34,,,janedoe
+7943,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:17:06,,,admin
+8444,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:21:46,,,johndoe
+7824,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:33:39,,,admin
+3381,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:37:11,,,admin
+3222,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:56:56,,,admin
+3615,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:47:04,,,janedoe
+2832,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:01:00,,,janedoe
+6517,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:22:38,,,janedoe
+1801,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:51:37,,,admin
+4438,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:05:39,,,janedoe
+3821,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:06:21,,,admin
+7041,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:20:24,,,admin
+8904,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:34:57,,,janedoe
+4524,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:42:02,,,johndoe
+8822,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:20:34,,,admin
+2245,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:36:17,,,user1
+7471,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:17:06,,,admin
+6533,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:52:20,,,user1
+8685,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:21:00,,,janedoe
+5054,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:40:59,,,johndoe
+4384,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2026-03-01 09:00:00,,,admin
+2128,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:26:13,,,janedoe
+5285,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:01:01,,,janedoe
+6415,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:04:11,,,user1
+9592,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:42:21,,,user1
+4695,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:15:10,,,user1
+3102,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:35:51,,,admin
+2245,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:56:32,,,user1
+1166,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:06,,,janedoe
+5945,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:20:10,,,user1
+3246,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:01:48,,,user1
+2124,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:08:08,,,janedoe
+3527,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:26:06,,,user1
+6039,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:08:36,,,user1
+1742,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:40:01,,,johndoe
+8303,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:31,,,admin
+3267,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:45:50,,,user1
+3938,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:14:26,,,janedoe
+9747,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:05:47,,,admin
+2113,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:12:32,,,user1
+5641,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:12:34,,,johndoe
+4985,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:47:47,,,johndoe
+9019,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:24:09,,,user1
+2492,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:15:29,,,user1
+1769,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:09:19,,,janedoe
+2113,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:31:46,,,johndoe
+2827,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:30:06,,,admin
+7456,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:41:58,,,admin
+3077,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:05:28,,,janedoe
+4570,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:48:34,,,user1
+5415,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:44:58,,,admin
+4784,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:53:30,,,johndoe
+5543,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:32:32,,,admin
+9941,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:10:38,,,admin
+5467,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:26:40,,,janedoe
+4371,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:01:38,,,user1
+7163,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:22:53,,,janedoe
+9702,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:08:24,,,user1
+9796,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:25:50,,,user1
+7939,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:33:59,,,user1
+2200,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:41:23,,,admin
+9985,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:50:57,,,user1
+6309,###CORRUPT###HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:38:53,,,admin
+4570,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:14:08,,,janedoe
+7945,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:25:56,,,johndoe
+4982,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:07:03,,,janedoe
+7440,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:28:10,,,johndoe
+6813,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:14:21,,,johndoe
+2233,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:45:33,,,janedoe
+3719,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:26:49,,,user1
+1579,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:59:29,,,user1
+8617,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:19:05,,,user1
+9856,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:33:22,,,janedoe
+8982,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2026-03-01 09:00:00,,,janedoe
+6061,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:34:54,,,user1
+4608,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:19:01,,,johndoe
+6821,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:27:46,,,janedoe
+6489,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:39:29,,,janedoe
+2310,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:36:26,,,admin
+1685,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:59:08,,,janedoe
+8294,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:48:32,,,user1
+9880,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:50:29,,,user1
+4073,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:17:34,,,admin
+9984,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:20:33,,,user1
+9510,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:53:45,,,admin
+3222,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:19:35,,,janedoe
+8359,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:58:34,,,johndoe
+5640,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:39,,,user1
+8511,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2026-03-01 09:00:00,,,user1
+2890,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:52:51,,,user1
+4773,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:47:20,,,johndoe
+7311,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:21:37,,,janedoe
+8474,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:00:48,,,user1
+3579,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:45:48,,,admin
+2612,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:07:42,,,admin
+5557,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:49:09,,,janedoe
+1744,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:55:46,,,user1
+6413,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:28:52,,,user1
+4985,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:47:11,,,admin
+4339,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:47:36,,,johndoe
+9084,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:43:41,,,janedoe
+3390,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:59:50,,,janedoe
+7512,"HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,unexpected",create,2025-03-01 09:19:06,,,johndoe
+9856,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:42:26,,,user1
+9751,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:25:32,,,johndoe
+9866,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:19:55,,,admin
+7642,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:36:55,,,admin
+3653,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:19:30,,,admin
+7224,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:18:33,,,janedoe
+6456,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:34:44,,,johndoe
+9747,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:13:02,,,user1
+1256,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:32:35,,,admin
+1188,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:13:27,,,admin
+3221,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:27:31,,,admin
+1931,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:33:14,,,admin
+5410,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:41:31,,,admin
+7971,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:27:38,,,janedoe
+4384,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:06:22,,,janedoe
+5488,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:28:57,,,janedoe
+5536,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:56:25,,,user1
+2389,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:45:19,,,janedoe
+7284,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:59:22,,,user1
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:25:35,,,admin
+9369,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:40:08,,,user1
+2797,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:37:14,,,user1
+3938,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:16:53,,,janedoe
+4171,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:45:01,,,janedoe
+8007,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:22:52,,,johndoe
+1152,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:29:02,,,user1
+5458,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:00:17,,,johndoe
+8118,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:13:57,,,janedoe
+2746,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:29:21,,,johndoe
+9813,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:55:21,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+3390,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:11:14,,,johndoe
+9787,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:29:06,,,janedoe
+7382,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:55:51,,,janedoe
+6238,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:08:32,,,user1
+3867,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:33:01,,,admin
+3634,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:08:15,,,janedoe
+2467,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:44:32,,,admin
+9976,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:00:35,,,admin
+3535,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:56:28,,,johndoe
+7874,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:46:05,,,admin
+3506,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:23:48,,,janedoe
+4082,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:08:12,,,janedoe
+5922,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:23:53,,,johndoe
+7022,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:02:46,,,johndoe
+3793,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:53:10,,,johndoe
+8765,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:10:23,,,janedoe
+2226,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:46:34,,,user1
+99999,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:47:24,,,admin
+4773,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:51:53,,,admin
+3804,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:31:18,,,janedoe
+8807,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:45:51,,,admin
+1444,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:22:50,,,johndoe
+1085,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:02:32,,,user1
+5673,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:28:36,,,user1
+7971,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:27:23,,,user1
+5885,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:45:41,,,janedoe
+3589,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:58:56,,,user1
+8433,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:24:27,,,admin
+2669,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:19:21,,,johndoe
+5783,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:26:14,,,janedoe
+6413,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:58:14,,,user1
+7524,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:06:15,,,janedoe
+7723,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:24:54,,,janedoe
+1953,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:36:46,,,user1
+2654,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:49:11,,,admin
+9013,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:55:21,,,janedoe
+4453,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:45:20,,,janedoe
+9680,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:53:55,,,admin
+8515,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:38:11,,,user1
+5475,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:33:49,,,admin
+6289,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 10:00:00,,,janedoe
+9564,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:57:41,,,user1
+3925,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:55:25,,,admin
+8736,###CORRUPT###HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:40:13,,,user1
+2492,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:04:30,,,admin
+7018,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:55:15,,,user1
+3516,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:22:55,,,user1
+6072,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:42:39,,,admin
+3623,"HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,unexpected",modify,2025-03-01 09:17:55,,,admin
+3750,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:16:33,,,admin
+5458,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:34:56,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+6085,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:09:34,,,johndoe
+8612,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:58:14,,,janedoe
+7041,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:57:48,,,admin
+5107,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:56:32,,,user1
+3258,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:46:02,,,janedoe
+9437,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:13:50,,,user1
+9810,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:06:27,,,janedoe
+7642,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:41:23,,,johndoe
+6254,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:44:12,,,janedoe
+6038,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:29:09,,,janedoe
+9873,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:27:10,,,user1
+1975,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:27:55,,,johndoe
+9837,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:01:40,,,janedoe
+7984,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:27:24,,,janedoe
+1355,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:29:30,,,admin
+1085,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:38:54,,,admin
+1999,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:26:58,,,admin
+5469,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:31:39,,,johndoe
+2904,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:38:36,,,janedoe
+8822,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:32:47,,,janedoe
+6231,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:25:57,,,user1
+3399,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:38:01,,,admin
+3068,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:04:56,,,janedoe
+4522,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:22:30,,,admin
+7737,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:56:10,,,janedoe
+9880,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:23:57,,,admin
+6993,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:44:15,,,admin
+5641,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:03:49,,,user1
+9689,###CORRUPT###HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:17:52,,,user1
+1056,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:35:41,,,janedoe
+9680,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:03:23,,,user1
+5025,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:01:13,,,user1
+5093,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:23:12,,,janedoe
+9017,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:57:02,,,admin
+9837,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:27:24,,,user1
+6321,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:58:05,,,admin
+7235,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:43:16,,,admin
+5949,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:55,,,user1
+1769,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:55:27,,,janedoe
+1844,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:09:28,,,user1
+2128,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:32:03,,,johndoe
+9204,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:33:46,,,johndoe
+4365,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:27:51,,,janedoe
+9747,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:37:03,,,johndoe
+8007,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:17:16,,,admin
+4454,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:19:09,,,janedoe
+7163,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:24:09,,,johndoe
+7249,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:38:20,,,janedoe
+2234,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:43:00,,,janedoe
+2680,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:26:44,,,user1
+4300,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:02:00,,,janedoe
+9985,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:00:18,,,janedoe
+7495,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:52:39,,,janedoe
+6253,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:40:45,,,admin
+3365,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:52:05,,,admin
+4977,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:40:40,,,janedoe
+6567,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:11:16,,,johndoe
+9485,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:11:45,,,janedoe
+9589,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:30:30,,,johndoe
+5400,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:18:24,,,admin
+5327,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:04:19,,,johndoe
+8191,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:07:30,MaliciousApp,C:/Users/Admin/notepad.exe,admin
+8575,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:46:11,,,admin
+9609,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:44:54,,,user1
+5168,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:23:26,,,janedoe
+8836,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:40:43,,,janedoe
+7375,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:42:21,,,admin
+8314,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:07:37,,,admin
+2323,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:18:45,,,janedoe
+3733,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:55:46,,,janedoe
+3532,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:12:30,,,johndoe
+2283,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:33:51,,,johndoe
+5150,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:23:47,,,janedoe
+2465,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:02:47,,,admin
+7505,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:05:21,,,johndoe
+1960,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:21:20,,,janedoe
+6298,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:09:15,,,admin
+2677,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:28:22,,,johndoe
+9810,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:26:18,,,johndoe
+1116,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:56:41,,,user1
+7018,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:51:57,,,janedoe
+6432,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:01:57,,,janedoe
+6542,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:26:46,,,admin
+7014,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:28:56,,,janedoe
+5885,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:16:25,,,johndoe
+3262,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:05:02,,,johndoe
+3787,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:02:13,,,user1
+5655,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:56:02,,,admin
+7145,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:49,,,admin
+5382,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:21:03,,,user1
+4139,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:03:54,,,user1
+6465,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:27:21,,,user1
+8685,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:37:44,,,johndoe
+2677,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:09:02,,,janedoe
+9977,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:31:51,,,admin
+4510,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:49:02,,,johndoe
+4594,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:42:55,,,user1
+4308,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:44:09,,,johndoe
+4695,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:15:21,,,user1
+4469,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:45:21,,,admin
+4170,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:21:53,,,admin
+9856,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:45:57,,,johndoe
+6168,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:55:13,,,user1
+3762,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:34:45,,,admin
+6731,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,modify,2025-03-01 09:50:45,,,user1
+8685,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:10:41,,,janedoe
+8245,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:38:43,,,janedoe
+9592,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:29:42,,,user1
+2677,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:38:33,,,johndoe
+9346,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:23:38,,,johndoe
+2128,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:18:42,,,user1
+5828,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:00:24,,,user1
+1936,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:38:15,,,user1
+9850,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:50:50,,,johndoe
+3647,###CORRUPT###HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:34:20,,,user1
+1152,"HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,unexpected",create,2025-03-01 09:44:16,,,user1
+2943,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:18:38,,,johndoe
+8904,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:42:41,,,user1
+2419,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:16:23,,,admin
+1845,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:05:09,,,janedoe
+9004,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:11:46,,,user1
+9004,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:16:41,,,johndoe
+3658,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:10:54,,,user1
+4012,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:24:41,,,user1
+6039,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:46:46,,,janedoe
+4695,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:15:10,,,admin
+3937,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:44:16,,,admin
+3735,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:31:48,,,user1
+1601,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:03:09,,,admin
+1917,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:17:32,,,admin
+8371,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:31:10,,,johndoe
+2641,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:59:29,,,admin
+8982,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,create,2025-03-01 09:12:18,,,johndoe
+8895,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:05:31,,,johndoe
+3354,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:54:30,,,johndoe
+5839,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:28:41,,,johndoe
+9984,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:23:06,,,janedoe
+3755,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:29:12,,,janedoe
+3725,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:50:07,,,user1
+8191,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:57:47,,,janedoe
+8526,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:07:16,,,janedoe
+1844,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:37:07,,,janedoe
+8869,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:14:09,,,janedoe
+7564,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:51:01,,,user1
+1742,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:14:50,,,johndoe
+4817,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:53:45,,,janedoe
+2797,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:13:58,,,admin
+3496,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:04:53,,,johndoe
+4524,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:11:53,,,user1
+4389,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:07:41,,,user1
+2352,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:28:22,,,johndoe
+8803,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,delete,2025-03-01 09:26:30,,,janedoe
+7114,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:40:29,,,user1
+7041,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:00:12,,,janedoe
+6482,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,delete,2025-03-01 09:46:37,,,admin
+6833,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:52:15,,,user1
+3354,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,modify,2025-03-01 09:53:12,,,admin
+3102,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,create,2025-03-01 09:26:10,,,admin
+5314,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:02:58,,,user1
+7046,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,delete,2025-03-01 09:39:31,,,user1
+5102,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:08:45,,,user1
+5794,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,create,2025-03-01 09:01:23,,,janedoe
+7456,HKEY_LOCAL_MACHINE\SOFTWARE/Google/Chrome,modify,2025-03-01 09:44:30,,,janedoe
+1801,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,modify,2025-03-01 09:35:53,,,johndoe
+3925,HKEY_CURRENT_USER\SOFTWARE/Oracle/Java,delete,2025-03-01 09:39:42,,,johndoe
+5102,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:11:00,,,admin
+6253,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:19:03,,,admin
+2052,"HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,unexpected",modify,2025-03-01 09:37:44,,,janedoe
+3506,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:14:25,,,janedoe
+9510,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Office/16.0,delete,2025-03-01 09:13:39,,,johndoe
+5408,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:56:51,,,janedoe
+9148,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,modify,2025-03-01 09:32:31,,,janedoe
+4073,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Office/16.0,create,2025-03-01 09:17:34,,,admin
+1844,HKEY_LOCAL_MACHINE\SOFTWARE/Microsoft/Windows NT/CurrentVersion,modify,2025-03-01 09:37:07,,,janedoe
+1116,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:56:41,,,user1
+9238,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,delete,2025-03-01 09:24:09,,,admin
+1310,HKEY_LOCAL_MACHINE\SOFTWARE/Oracle/Java,delete,2025-03-01 09:53:25,,,admin
+8207,HKEY_CURRENT_USER\SOFTWARE/Microsoft/Windows NT/CurrentVersion,create,2025-03-01 09:17:11,,,admin
+8685,HKEY_LOCAL_MACHINE\SOFTWARE/Adobe/Acrobat Reader,modify,2025-03-01 09:21:00,,,janedoe
+3267,HKEY_CURRENT_USER\SOFTWARE/Adobe/Acrobat Reader,create,2025-03-01 09:08:07,,,user1
+6246,HKEY_CURRENT_USER\SOFTWARE/Google/Chrome,create,2025-03-01 09:18:15,,,user1
+15151,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run,create,2025-03-01 09:00:42,SystemUpdateService,C:/Users/Admin/AppData/Local/Temp/system_update.exe,admin
+15153,HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies,modify,2025-03-01 09:01:37,DisableTaskMgr,1,admin

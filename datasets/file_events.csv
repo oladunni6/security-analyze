@@ -1,0 +1,1014 @@
+process_id,file_path,operation,timestamp,user
+5631,C:/Program Files/config.ini,read,2025-03-01 09:59:59,admin
+2226,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:04:01,janedoe
+9582,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:35:28,user1
+3938,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:13:55,janedoe
+9129,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:52:21,janedoe
+3207,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:45:24,janedoe
+5797,C:/Program Files/config.ini,write,2025-03-01 09:32:46,janedoe
+6833,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:38:22,johndoe
+9673,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:58:53,admin
+8178,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:34:52,janedoe
+2283,C:/Program Files/Common Files/image.png,read,2025-03-01 09:49:48,admin
+2584,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:49:02,janedoe
+1439,C:/Windows/System32/image.png,read,2025-03-01 09:04:19,janedoe
+7163,###CORRUPT###C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:53:44,user1
+4111,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:57:11,admin
+4559,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:39:21,user1
+2481,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:06:52,janedoe
+1984,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:43:42,johndoe
+1999,C:/Program Files/report.docx,read,2025-03-01 09:16:08,user1
+1844,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:53:53,user1
+5949,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:18:12,janedoe
+4764,C:/Windows/System32/data.csv,write,2025-03-01 09:50:19,janedoe
+6303,C:/Program Files/config.ini,write,2025-03-01 09:19:47,user1
+7284,C:/Windows/System32/report.docx,write,2025-03-01 09:59:04,johndoe
+9095,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:12:19,janedoe
+3755,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:12:45,user1
+9837,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:22:36,user1
+5059,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:49:04,admin
+3725,C:/Program Files/data.csv,write,2025-03-01 09:09:26,user1
+5073,C:/Program Files/config.ini,read,2025-03-01 09:09:11,johndoe
+5410,C:/Program Files/Common Files/image.png,,2025-03-01 09:49:34,admin
+7018,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:03:02,johndoe
+5631,C:/Users/JohnDoe/Documents/data.csv,,2025-03-01 09:55:21,janedoe
+5896,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:23:50,user1
+6990,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:45:33,johndoe
+8381,C:/Program Files/config.ini,write,2025-03-01 09:04:09,admin
+7523,C:/Program Files/readme.txt,write,2025-03-01 09:16:07,janedoe
+99999,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:07:28,janedoe
+5921,C:/Windows/System32/log.txt,read,2025-03-01 09:14:20,admin
+9975,C:/Windows/System32/config.ini,read,2025-03-01 09:53:11,johndoe
+6688,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:13:34,janedoe
+7737,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:03:52,user1
+3725,C:/Windows/System32/report.docx,write,2025-03-01 09:05:38,user1
+8126,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:41:33,admin
+2832,C:/Program Files/data.csv,read,2025-03-01 09:49:57,user1
+9138,C:/Windows/System32/config.ini,read,2025-03-01 09:59:10,janedoe
+1193,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:03:39,admin
+2417,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:07:54,admin
+6169,###CORRUPT###C:/Program Files/Common Files/data.csv,read,2025-03-01 09:12:20,admin
+7980,C:/Windows/System32/report.docx,read,2025-03-01 09:30:28,user1
+1144,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:16:58,user1
+3871,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:02:31,johndoe
+2388,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:23:01,user1
+4495,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:31:05,johndoe
+5806,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:12:01,admin
+6413,C:/Windows/System32/log.txt,write,2025-03-01 09:42:41,user1
+5950,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:09:11,user1
+1794,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:01:10,user1
+5267,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:49:15,janedoe
+5530,C:/Windows/System32/image.png,read,2025-03-01 09:54:58,user1
+5488,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:08:45,janedoe
+6731,C:/Windows/System32/readme.txt,write,2025-03-01 09:08:05,user1
+3623,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:37:31,johndoe
+5441,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:52:03,user1
+5150,C:/Program Files/readme.txt,read,2025-03-01 09:50:41,user1
+3735,C:/Windows/System32/config.ini,read,2025-03-01 09:28:50,admin
+9837,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:15:45,janedoe
+2775,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:30:14,admin
+6599,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:28:08,user1
+6822,C:/Program Files/config.ini,write,2025-03-01 09:36:15,admin
+7334,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:56:30,admin
+9369,C:/Program Files/image.png,write,2025-03-01 09:02:12,user1
+4923,C:/Windows/System32/readme.txt,write,2025-03-01 09:27:41,janedoe
+7046,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:28:53,johndoe
+3390,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:40:17,johndoe
+4022,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:16:48,johndoe
+7284,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:31:31,janedoe
+4450,C:/Windows/System32/readme.txt,read,2025-03-01 09:52:30,admin
+99999,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:01:49,janedoe
+9004,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:27:12,johndoe
+9837,C:/Windows/System32/data.csv,write,2025-03-01 09:35:14,admin
+8859,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:55:27,johndoe
+4727,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:59:17,admin
+6409,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:05:45,user1
+6339,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:06:56,user1
+9564,C:/Windows/System32/data.csv,read,2025-03-01 09:22:40,admin
+3365,C:/Windows/System32/log.txt,write,2025-03-01 09:33:35,johndoe
+1828,C:/Program Files/data.csv,read,2025-03-01 09:48:03,user1
+4079,C:/Windows/System32/readme.txt,write,2025-03-01 09:12:24,johndoe
+1182,C:/Users/JohnDoe/Documents/report.docx,,2025-03-01 09:24:15,janedoe
+9646,C:/Program Files/Common Files/image.png,write,2025-03-01 09:33:52,admin
+1635,C:/Program Files/readme.txt,read,2025-03-01 09:22:47,user1
+5631,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:10:41,janedoe
+2926,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:29:49,user1
+6499,"C:/Windows/System32/log.txt,unexpected",read,2025-03-01 09:35:48,user1
+1984,C:/Program Files/image.png,,2025-03-01 09:32:25,admin
+1939,C:/Windows/System32/readme.txt,write,2025-03-01 09:28:19,janedoe
+8438,C:/Windows/System32/log.txt,write,2025-03-01 09:42:47,admin
+6862,C:/Windows/System32/readme.txt,write,2025-03-01 09:40:10,janedoe
+5102,"C:/Users/JohnDoe/Desktop/data.csv,unexpected",write,2025-03-01 09:02:32,admin
+9507,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:37:07,admin
+2636,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:39:11,admin
+9810,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:21:37,user1
+9095,C:/Windows/System32/log.txt,read,2025-03-01 09:55:08,johndoe
+4784,"C:/Users/JohnDoe/Desktop/report.docx,unexpected",write,2025-03-01 09:26:57,janedoe
+5695,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:13:33,janedoe
+3762,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:55:32,janedoe
+5525,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:06:58,janedoe
+8269,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:33:06,johndoe
+3877,C:/Windows/System32/data.csv,write,2025-03-01 09:16:56,user1
+7809,C:/Program Files/log.txt,read,2025-03-01 09:14:23,johndoe
+1582,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:41:40,janedoe
+4765,C:/Windows/System32/readme.txt,write,2025-03-01 09:11:16,janedoe
+6804,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:31:53,admin
+7046,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:07:12,admin
+2352,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:45:06,admin
+8324,###CORRUPT###C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:06:29,admin
+3496,C:/Program Files/log.txt,write,2025-03-01 09:10:00,admin
+8617,C:/Windows/System32/data.csv,read,2025-03-01 09:49:53,johndoe
+3724,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:37:18,janedoe
+5088,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:10:58,admin
+6878,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:38:59,janedoe
+4613,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:36:48,user1
+5150,C:/Windows/System32/readme.txt,read,2025-03-01 09:28:35,janedoe
+4453,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:56:34,user1
+6094,C:/Program Files/data.csv,read,2025-03-01 09:20:26,janedoe
+1620,C:/Windows/System32/image.png,read,2025-03-01 09:10:46,janedoe
+9674,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:40:57,janedoe
+3950,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:49:34,janedoe
+9856,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:45:22,admin
+8736,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:15:39,admin
+5410,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:07:40,johndoe
+4817,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:12:05,janedoe
+1801,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:22:45,janedoe
+8126,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:39:39,janedoe
+2696,C:/Program Files/log.txt,read,2025-03-01 09:41:17,janedoe
+5105,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:26:11,user1
+6412,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:01:44,johndoe
+9609,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:04:25,janedoe
+1635,C:/Windows/System32/config.ini,write,2025-03-01 09:06:58,janedoe
+9740,C:/Program Files/config.ini,write,2025-03-01 09:39:35,user1
+5914,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:00:01,user1
+7311,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:41:55,admin
+6170,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:32:44,user1
+1612,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:29:00,admin
+3683,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:05:02,user1
+6424,C:/Windows/System32/report.docx,read,2025-03-01 09:24:25,user1
+7524,C:/Program Files/image.png,read,2025-03-01 09:15:52,user1
+7524,C:/Program Files/Common Files/image.png,read,2025-03-01 09:23:19,user1
+4893,C:/Program Files/readme.txt,write,2025-03-01 09:21:55,admin
+2467,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:11:18,johndoe
+6038,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:17:53,admin
+9646,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:44:23,admin
+3353,C:/Program Files/image.png,write,2025-03-01 09:01:55,janedoe
+7418,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:51:01,admin
+2275,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:40:35,admin
+7813,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:59:08,janedoe
+7717,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:18:32,admin
+7566,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:53:44,user1
+2323,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:42:46,janedoe
+8412,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:47:42,janedoe
+2584,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:21:16,janedoe
+2235,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:22:20,johndoe
+5571,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:07:33,admin
+6990,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:03:59,janedoe
+9485,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:47:25,admin
+1822,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:05:21,janedoe
+7691,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:56:50,janedoe
+5571,C:/Program Files/data.csv,read,2025-03-01 09:28:02,user1
+5536,C:/Windows/System32/report.docx,write,2025-03-01 09:22:22,johndoe
+9673,###CORRUPT###C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:00:31,admin
+5329,C:/Windows/System32/report.docx,write,2025-03-01 09:55:05,user1
+3476,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:12:12,admin
+1794,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:53:37,janedoe
+8183,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:22:18,janedoe
+9201,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:21:29,janedoe
+5581,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:23:12,admin
+8816,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:52:25,johndoe
+6634,C:/Program Files/config.ini,read,2025-03-01 09:29:01,user1
+6170,C:/Program Files/log.txt,write,2025-03-01 09:59:47,janedoe
+7984,C:/Program Files/image.png,write,2025-03-01 09:22:58,johndoe
+1085,C:/Windows/System32/readme.txt,write,2025-03-01 09:41:12,johndoe
+7543,C:/Program Files/readme.txt,write,2025-03-01 09:10:56,user1
+4945,C:/Windows/System32/config.ini,write,2025-03-01 09:12:21,janedoe
+8310,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:21:12,janedoe
+2635,C:/Program Files/log.txt,read,2025-03-01 09:26:38,admin
+6383,C:/Windows/System32/readme.txt,write,2025-03-01 09:48:24,admin
+3877,C:/Windows/System32/log.txt,write,2025-03-01 09:36:24,janedoe
+8972,C:/Windows/System32/readme.txt,read,2025-03-01 09:07:23,janedoe
+3527,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:48:32,janedoe
+1430,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:11:48,johndoe
+2735,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:30:27,user1
+7084,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:58:12,user1
+3267,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:49:51,admin
+5640,C:/Program Files/readme.txt,write,2025-03-01 09:15:37,janedoe
+2871,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:47:32,janedoe
+9510,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:55:54,user1
+7389,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:21:08,user1
+2843,C:/Windows/System32/image.png,read,2025-03-01 09:34:22,johndoe
+7375,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:03:13,admin
+6850,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:44:33,johndoe
+3017,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:50:30,user1
+3485,C:/Program Files/readme.txt,read,2025-03-01 09:13:12,user1
+2330,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:46:34,admin
+6393,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:52:09,user1
+4110,C:/Program Files/image.png,read,2025-03-01 09:33:24,user1
+7737,C:/Windows/System32/config.ini,write,2025-03-01 09:46:46,user1
+8191,C:/Windows/System32/data.csv,read,2025-03-01 09:44:43,admin
+1118,C:/Windows/System32/report.docx,write,2025-03-01 09:16:51,admin
+2526,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:02:15,janedoe
+3868,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:18:12,user1
+2481,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:00:48,admin
+8896,###CORRUPT###C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:35:08,admin
+9880,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:34:29,johndoe
+2393,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:23:34,user1
+6850,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:17:51,johndoe
+6772,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:55:56,johndoe
+9209,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:30:44,admin
+5533,C:/Windows/System32/image.png,write,2025-03-01 09:16:26,admin
+1266,C:/Program Files/report.docx,write,2025-03-01 09:59:40,janedoe
+5536,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:40:01,user1
+6409,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:21:28,janedoe
+8941,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:07:08,johndoe
+7284,C:/Program Files/Common Files/image.png,write,2025-03-01 09:25:43,user1
+6599,C:/Windows/System32/readme.txt,write,2025-03-01 09:48:30,johndoe
+1845,C:/Program Files/log.txt,read,2025-03-01 09:56:46,user1
+5210,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:16:15,admin
+9747,C:/Program Files/readme.txt,write,2025-03-01 09:02:03,janedoe
+6321,C:/Program Files/report.docx,read,2025-03-01 09:35:17,admin
+2843,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:11:27,user1
+4139,C:/Windows/System32/readme.txt,read,2025-03-01 09:01:01,user1
+2926,C:/Program Files/config.ini,read,2025-03-01 09:01:06,admin
+9653,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:29:37,janedoe
+1100,C:/Windows/System32/readme.txt,read,2025-03-01 09:34:40,janedoe
+6039,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:37:23,admin
+9180,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:54:23,admin
+6152,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:37:45,johndoe
+7495,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:40:15,admin
+4389,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:13:18,johndoe
+4016,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:56:48,admin
+7163,C:/Windows/System32/readme.txt,read,2025-03-01 09:31:12,janedoe
+6246,C:/Program Files/readme.txt,write,2025-03-01 09:22:29,janedoe
+4027,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:47:02,admin
+4869,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:28:48,johndoe
+2827,C:/Windows/System32/readme.txt,write,2025-03-01 09:25:19,johndoe
+7498,C:/Windows/System32/image.png,read,2025-03-01 09:19:15,admin
+2465,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:27:13,johndoe
+2127,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:25:04,user1
+8619,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:20:05,user1
+6544,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:10:52,janedoe
+7467,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:36:02,user1
+2730,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:32:15,janedoe
+1844,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:25:19,janedoe
+4568,C:/Program Files/log.txt,read,2025-03-01 09:38:52,janedoe
+9227,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:08:38,admin
+2388,C:/Windows/System32/config.ini,write,2025-03-01 09:31:01,user1
+1742,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:37:46,admin
+2593,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:04:58,janedoe
+1357,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:08:02,janedoe
+9437,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:45:48,user1
+2354,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:53:31,admin
+2417,C:/Windows/System32/report.docx,read,2025-03-01 09:19:08,admin
+6134,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:09:24,janedoe
+5210,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:41:10,janedoe
+2929,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:30:40,admin
+7980,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:18:11,user1
+3948,C:/Windows/System32/report.docx,write,2025-03-01 09:25:27,janedoe
+1878,C:/Windows/System32/log.txt,read,2025-03-01 09:00:11,user1
+1981,C:/Program Files/log.txt,read,2025-03-01 09:48:29,admin
+7888,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:14:59,johndoe
+2022,"C:/Program Files/Common Files/log.txt,unexpected",read,2025-03-01 09:31:21,user1
+3053,C:/Program Files/config.ini,write,2025-03-01 09:12:07,user1
+9261,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:00:20,admin
+3615,C:/Windows/System32/data.csv,read,2025-03-01 09:10:59,johndoe
+99999,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:09:18,janedoe
+4411,C:/Windows/System32/data.csv,write,2025-03-01 09:00:25,janedoe
+5664,C:/Windows/System32/readme.txt,write,2025-03-01 09:38:23,admin
+4666,C:/Windows/System32/readme.txt,write,2025-03-01 09:00:04,user1
+4139,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:21:30,user1
+1108,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:50:46,johndoe
+7267,C:/Program Files/data.csv,read,2025-03-01 09:13:37,admin
+1822,C:/Windows/System32/data.csv,write,2025-03-01 09:40:31,johndoe
+3803,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:17:30,admin
+5308,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:38:21,johndoe
+6482,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:54:26,janedoe
+6238,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:59:03,janedoe
+7112,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:19:02,janedoe
+6478,C:/Windows/System32/data.csv,read,2025-03-01 09:42:37,user1
+6690,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:55:21,admin
+2702,C:/Program Files/image.png,read,2025-03-01 09:02:25,johndoe
+2210,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:52:53,janedoe
+8504,C:/Program Files/image.png,read,2025-03-01 09:31:58,johndoe
+4012,C:/Program Files/image.png,write,2025-03-01 09:17:28,user1
+2901,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:27:41,johndoe
+4346,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:30:34,user1
+9312,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:20:27,user1
+5267,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:21:42,user1
+3077,C:/Program Files/Common Files/image.png,write,2025-03-01 09:27:42,user1
+8007,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:03:37,janedoe
+8848,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:26:51,johndoe
+2923,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:05:27,johndoe
+5938,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:49:46,admin
+8909,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:52:16,johndoe
+9954,C:/Windows/System32/readme.txt,write,2025-03-01 09:49:52,admin
+4986,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:06:48,admin
+8126,C:/Windows/System32/data.csv,write,2025-03-01 09:06:28,admin
+6690,C:/Program Files/log.txt,write,2025-03-01 09:48:04,janedoe
+6728,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:11:28,admin
+2037,C:/Program Files/Common Files/image.png,write,2025-03-01 09:15:57,johndoe
+4992,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:46:35,user1
+4453,C:/Windows/System32/readme.txt,read,2025-03-01 09:12:26,janedoe
+7775,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:00:43,user1
+3867,C:/Program Files/Common Files/image.png,read,2025-03-01 09:05:23,johndoe
+9693,C:/Windows/System32/log.txt,read,2025-03-01 09:59:58,johndoe
+5533,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:30:02,johndoe
+5105,C:/Windows/System32/data.csv,read,2025-03-01 09:56:59,janedoe
+8848,C:/Windows/System32/data.csv,read,2025-03-01 09:57:39,user1
+1999,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:24:09,johndoe
+1917,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:45:29,admin
+1485,C:/Windows/System32/readme.txt,write,2025-03-01 09:46:15,user1
+1188,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:47:06,admin
+2943,C:/Windows/System32/log.txt,read,2025-03-01 09:02:08,user1
+5896,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:04:23,admin
+2291,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:15:06,johndoe
+7719,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:37:14,johndoe
+1100,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:46:49,johndoe
+7363,C:/Program Files/readme.txt,write,2025-03-01 09:04:49,admin
+8740,C:/Windows/System32/data.csv,write,2025-03-01 09:38:52,admin
+3170,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:56:16,admin
+5441,C:/Windows/System32/report.docx,write,2025-03-01 09:32:35,johndoe
+3381,C:/Windows/System32/image.png,read,2025-03-01 09:32:41,johndoe
+5415,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:45:12,user1
+4728,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:58:50,user1
+1485,C:/Windows/System32/readme.txt,write,2025-03-01 09:31:17,janedoe
+9261,C:/Program Files/log.txt,read,2025-03-01 09:14:52,user1
+7505,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:04:58,janedoe
+9950,C:/Program Files/data.csv,write,2025-03-01 09:08:52,janedoe
+99999,C:/Program Files/log.txt,write,2025-03-01 09:36:40,johndoe
+6409,C:/Program Files/report.docx,read,2025-03-01 09:45:09,user1
+3421,C:/Program Files/config.ini,write,2025-03-01 09:58:26,admin
+5277,C:/Windows/System32/readme.txt,read,2025-03-01 09:39:00,admin
+3509,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:24:18,user1
+1324,C:/Windows/System32/image.png,write,2025-03-01 09:34:50,johndoe
+4945,C:/Program Files/readme.txt,read,2025-03-01 09:06:02,janedoe
+7041,"C:/Program Files/Common Files/data.csv,unexpected",read,2025-03-01 09:42:04,admin
+8625,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:22:48,janedoe
+5221,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:05:59,user1
+3595,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:21:16,user1
+7937,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:28:36,user1
+8460,C:/Windows/System32/image.png,write,2025-03-01 09:25:15,johndoe
+2020,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:31:32,janedoe
+5076,C:/Windows/System32/image.png,read,2025-03-01 09:00:04,janedoe
+4982,"C:/Windows/System32/readme.txt,unexpected",write,2025-03-01 09:57:28,user1
+8490,C:/Program Files/image.png,read,2025-03-01 09:12:21,user1
+8444,C:/Program Files/Common Files/image.png,read,2025-03-01 09:06:45,user1
+4396,C:/Windows/System32/log.txt,read,2025-03-01 09:35:39,janedoe
+5533,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:38:36,admin
+9985,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:34:20,janedoe
+5836,C:/Program Files/report.docx,write,2025-03-01 09:37:33,admin
+1893,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:38:50,janedoe
+4626,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:26:03,admin
+8836,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:16:08,janedoe
+3024,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:04:35,janedoe
+2989,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:11:46,johndoe
+4016,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:44:52,admin
+2911,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:11:05,admin
+4860,C:/Windows/System32/config.ini,read,2025-03-01 09:41:59,johndoe
+9305,"C:/Users/JohnDoe/Documents/config.ini,unexpected",read,2025-03-01 09:09:14,user1
+5198,C:/Windows/System32/log.txt,write,2025-03-01 09:19:01,janedoe
+2443,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:51:09,admin
+7765,C:/Windows/System32/data.csv,write,2025-03-01 09:39:24,user1
+2417,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:50:13,admin
+3689,C:/Program Files/readme.txt,read,2025-03-01 09:03:27,johndoe
+8269,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:58:11,user1
+3755,C:/Program Files/image.png,write,2025-03-01 09:24:31,user1
+7495,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:49:00,user1
+4401,C:/Windows/System32/config.ini,read,2025-03-01 09:28:31,johndoe
+7397,C:/Windows/System32/data.csv,write,2025-03-01 09:13:27,admin
+4570,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:56:32,janedoe
+6253,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:39:54,admin
+2381,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:52:25,admin
+1881,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:40:50,admin
+4308,C:/Program Files/Common Files/image.png,read,2025-03-01 09:32:03,johndoe
+2200,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:39:44,user1
+9937,C:/Windows/System32/readme.txt,read,2025-03-01 09:57:29,johndoe
+5441,C:/Windows/System32/report.docx,write,2025-03-01 09:11:04,user1
+4982,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:08:05,janedoe
+4321,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:25:02,janedoe
+3077,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:57:26,janedoe
+5914,"C:/Program Files/Common Files/readme.txt,unexpected",read,2025-03-01 09:47:48,janedoe
+8775,C:/Program Files/readme.txt,write,2025-03-01 09:24:42,johndoe
+5843,C:/Windows/System32/log.txt,write,2025-03-01 09:53:09,johndoe
+4853,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:29:27,janedoe
+7824,C:/Program Files/image.png,read,2025-03-01 09:48:57,user1
+4570,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:20:38,janedoe
+7132,C:/Program Files/data.csv,read,2025-03-01 09:57:47,user1
+3733,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:06:02,johndoe
+2234,C:/Program Files/log.txt,write,2025-03-01 09:45:25,user1
+4992,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:18:11,user1
+1999,C:/Windows/System32/image.png,read,2025-03-01 09:36:26,janedoe
+2852,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:50:30,janedoe
+3267,C:/Program Files/image.png,write,2025-03-01 09:56:01,admin
+8775,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:17:59,user1
+5054,C:/Program Files/report.docx,read,2025-03-01 09:09:08,johndoe
+2926,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:45:30,admin
+7731,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:16:45,johndoe
+2128,C:/Program Files/readme.txt,read,2025-03-01 09:05:17,admin
+3389,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:27:41,admin
+1510,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:58:57,janedoe
+7382,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:34:05,johndoe
+7889,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:49:16,johndoe
+5267,C:/Program Files/log.txt,read,2025-03-01 09:29:48,johndoe
+6168,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:26:49,janedoe
+6328,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:55:05,admin
+4171,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:08:38,admin
+2330,C:/Program Files/log.txt,write,2025-03-01 09:01:30,admin
+1368,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:34:40,admin
+8972,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:40:40,user1
+7943,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:27:06,johndoe
+7818,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:00:55,janedoe
+3267,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:53:02,admin
+2354,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:55:32,johndoe
+3841,C:/Windows/System32/image.png,write,2025-03-01 09:44:25,user1
+4992,C:/Program Files/config.ini,write,2025-03-01 09:55:44,admin
+7235,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:14:34,admin
+7932,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:44:54,janedoe
+8889,C:/Program Files/readme.txt,read,2025-03-01 09:02:02,admin
+4784,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:11:24,user1
+5285,C:/Windows/System32/readme.txt,write,2025-03-01 09:06:18,johndoe
+7626,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:55:40,johndoe
+3258,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:17:43,johndoe
+1200,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:03:19,admin
+9975,C:/Program Files/Common Files/config.ini,,2025-03-01 09:11:10,admin
+8183,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:59:45,user1
+2975,C:/Program Files/data.csv,write,2025-03-01 09:09:00,janedoe
+2465,C:/Program Files/Common Files/image.png,write,2025-03-01 09:12:51,user1
+3485,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:04:13,admin
+7775,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:55:32,janedoe
+8749,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:22:13,admin
+8270,C:/Windows/System32/readme.txt,read,2025-03-01 09:33:01,user1
+2389,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:12:43,johndoe
+5994,C:/Program Files/Common Files/image.png,read,2025-03-01 09:08:11,janedoe
+6990,C:/Windows/System32/report.docx,read,2025-03-01 09:39:09,admin
+8982,C:/Program Files/data.csv,read,2025-03-01 09:33:44,user1
+6039,C:/Windows/System32/config.ini,read,2025-03-01 09:25:48,johndoe
+2210,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:12:00,admin
+9984,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:53:31,user1
+1116,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:42:00,johndoe
+6456,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:10:07,user1
+9227,C:/Program Files/image.png,write,2025-03-01 09:15:29,user1
+5308,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:00:05,johndoe
+3435,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:53:22,johndoe
+6482,C:/Program Files/config.ini,write,2025-03-01 09:29:08,admin
+4869,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:32:03,janedoe
+4860,C:/Windows/System32/readme.txt,write,2025-03-01 09:03:06,user1
+9515,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:52:11,user1
+4346,C:/Program Files/data.csv,read,2025-03-01 09:00:57,janedoe
+3527,C:/Windows/System32/config.ini,read,2025-03-01 09:24:10,user1
+3821,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:48:12,admin
+1918,C:/Program Files/Common Files/image.png,write,2025-03-01 09:48:17,johndoe
+2467,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:32:39,user1
+6924,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:08:56,user1
+3435,C:/Program Files/config.ini,read,2025-03-01 09:09:40,user1
+4923,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:51:29,johndoe
+3948,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:48:58,user1
+6821,C:/Program Files/image.png,write,2025-03-01 09:27:38,admin
+2153,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:14:24,johndoe
+5797,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:16:32,janedoe
+1136,C:/Program Files/readme.txt,read,2025-03-01 09:36:17,admin
+3496,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:18:49,admin
+4742,C:/Program Files/readme.txt,write,2025-03-01 09:15:38,johndoe
+5400,C:/Windows/System32/image.png,write,2025-03-01 09:10:08,admin
+7041,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:11:54,janedoe
+2989,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:45:19,janedoe
+7505,C:/Program Files/report.docx,write,2025-03-01 09:44:50,johndoe
+5571,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:53:58,janedoe
+5450,C:/Windows/System32/log.txt,write,2025-03-01 09:38:49,admin
+7814,C:/Program Files/image.png,read,2025-03-01 09:25:08,admin
+4866,C:/Program Files/Common Files/image.png,read,2025-03-01 09:05:17,johndoe
+5288,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:38:52,admin
+1794,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:40:20,johndoe
+99999,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:54:56,user1
+6544,C:/Windows/System32/data.csv,read,2025-03-01 09:55:22,user1
+2911,C:/Windows/System32/log.txt,write,2025-03-01 09:10:48,admin
+4016,C:/Windows/System32/report.docx,write,2025-03-01 09:06:33,user1
+3683,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:20:59,admin
+7495,C:/Program Files/report.docx,write,2025-03-01 09:42:20,janedoe
+3222,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:27:42,admin
+5295,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:05:03,user1
+9967,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:15:47,admin
+1845,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:44:30,janedoe
+2559,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:47:28,janedoe
+2901,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:16:11,user1
+2480,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:13:51,admin
+8474,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:22:26,johndoe
+3841,C:/Program Files/readme.txt,write,2025-03-01 09:12:24,user1
+9280,C:/Windows/System32/config.ini,read,2025-03-01 09:08:15,admin
+6068,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:33:11,janedoe
+6094,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:54:34,johndoe
+4765,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:00:04,user1
+3246,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:20:54,johndoe
+8807,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:33:53,janedoe
+3221,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:21:07,admin
+2354,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:29:07,admin
+5673,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:27:45,user1
+9918,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:32:06,user1
+9813,C:/Windows/System32/report.docx,write,2025-03-01 09:18:35,janedoe
+8617,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:30:07,admin
+1920,C:/Windows/System32/image.png,write,2025-03-01 09:09:22,janedoe
+5938,C:/Program Files/log.txt,read,2025-03-01 09:47:25,johndoe
+1116,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:12:14,johndoe
+9837,###CORRUPT###C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:31:35,janedoe
+8365,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:16:01,admin
+3353,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:41:45,janedoe
+7566,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:16:55,johndoe
+9027,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:50:52,user1
+1605,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:54:02,johndoe
+3527,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:51:24,user1
+4292,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:19:27,user1
+5025,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:18:00,admin
+6478,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:09:58,user1
+3662,C:/Windows/System32/report.docx,write,2025-03-01 09:08:45,janedoe
+7943,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:06:48,user1
+5267,C:/Program Files/readme.txt,read,2025-03-01 09:51:53,janedoe
+3435,C:/Program Files/readme.txt,read,2025-03-01 09:07:51,janedoe
+6489,C:/Windows/System32/data.csv,write,2025-03-01 09:58:08,johndoe
+8474,C:/Program Files/log.txt,write,2025-03-01 09:25:17,johndoe
+1845,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:02:32,user1
+1742,C:/Windows/System32/readme.txt,write,2025-03-01 09:38:41,janedoe
+5641,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:10:07,user1
+3931,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:09:39,johndoe
+8126,C:/Windows/System32/config.ini,read,2025-03-01 09:13:55,janedoe
+3262,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:36:05,janedoe
+4111,C:/Program Files/log.txt,write,2025-03-01 09:42:52,janedoe
+5949,C:/Windows/System32/report.docx,write,2025-03-01 09:55:02,admin
+8245,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:17:49,johndoe
+7532,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:47:29,johndoe
+9307,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:04:56,user1
+3390,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:13:58,johndoe
+99999,C:/Program Files/config.ini,write,2025-03-01 09:10:45,user1
+7022,C:/Windows/System32/config.ini,write,2025-03-01 09:31:13,johndoe
+5922,C:/Program Files/log.txt,read,2025-03-01 09:44:47,admin
+4509,C:/Windows/System32/log.txt,write,2025-03-01 09:48:45,janedoe
+9227,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:53:20,admin
+1241,C:/Windows/System32/report.docx,write,2025-03-01 09:48:31,user1
+9625,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:10:26,admin
+4869,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:29:54,johndoe
+9937,C:/Windows/System32/data.csv,read,2025-03-01 09:02:33,johndoe
+6663,C:/Program Files/log.txt,read,2025-03-01 09:15:35,johndoe
+9837,C:/Windows/System32/config.ini,write,2025-03-01 09:28:49,janedoe
+3174,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:49:49,user1
+8941,C:/Program Files/config.ini,read,2025-03-01 09:42:34,user1
+6310,C:/Windows/System32/config.ini,read,2025-03-01 09:22:32,janedoe
+4871,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:59:55,admin
+9312,C:/Program Files/readme.txt,read,2025-03-01 09:17:18,janedoe
+8784,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:45:45,janedoe
+9740,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:29:52,janedoe
+6416,C:/Program Files/data.csv,write,2025-03-01 09:51:15,johndoe
+3925,C:/Program Files/image.png,,2025-03-01 09:11:50,johndoe
+6321,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:05:20,user1
+5843,C:/Program Files/image.png,write,2025-03-01 09:55:42,janedoe
+4006,C:/Program Files/config.ini,read,2025-03-01 09:18:29,user1
+8909,C:/Windows/System32/config.ini,write,2025-03-01 09:31:17,admin
+7375,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:06:12,janedoe
+8444,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:45:11,user1
+2481,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:03:59,janedoe
+7382,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:45:05,janedoe
+2544,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:43:50,janedoe
+7566,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:42:28,user1
+9653,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:43:40,user1
+2210,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:42:56,user1
+4166,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:12:16,user1
+2200,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:26:18,janedoe
+9564,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:34:37,user1
+4906,C:/Program Files/data.csv,read,2025-03-01 09:30:48,admin
+7622,C:/Program Files/readme.txt,read,2025-03-01 09:05:52,admin
+4314,C:/Windows/System32/report.docx,read,2025-03-01 09:16:05,johndoe
+3725,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:45:42,admin
+7837,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:19:53,admin
+5885,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:24:03,admin
+2852,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:47:24,johndoe
+8247,C:/Program Files/report.docx,read,2025-03-01 09:33:43,admin
+7730,C:/Program Files/config.ini,write,2025-03-01 09:26:28,johndoe
+2843,C:/Program Files/config.ini,write,2025-03-01 09:12:24,user1
+6168,C:/Windows/System32/log.txt,write,2025-03-01 09:10:12,user1
+2124,C:/Windows/System32/data.csv,write,2025-03-01 09:46:21,johndoe
+6183,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:58:01,user1
+5530,C:/Program Files/image.png,read,2025-03-01 09:47:15,user1
+9148,C:/Program Files/log.txt,write,2025-03-01 09:30:13,admin
+4638,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:34:43,johndoe
+3246,C:/Windows/System32/log.txt,read,2025-03-01 09:54:54,user1
+7979,C:/Windows/System32/log.txt,write,2025-03-01 09:52:17,johndoe
+99999,C:/Windows/System32/report.docx,write,2025-03-01 09:12:56,janedoe
+1190,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:27:07,janedoe
+7626,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:59:54,johndoe
+4866,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:30:52,janedoe
+4148,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:10:55,johndoe
+4923,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:05:29,janedoe
+1823,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:55:15,user1
+5285,C:/Windows/System32/image.png,read,2025-03-01 09:10:18,johndoe
+8822,C:/Windows/System32/readme.txt,write,2025-03-01 09:14:54,admin
+8247,C:/Program Files/report.docx,write,2025-03-01 09:51:42,janedoe
+4678,C:/Program Files/data.csv,write,2025-03-01 09:45:37,user1
+4559,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:45:20,user1
+7114,C:/Windows/System32/data.csv,,2025-03-01 09:05:11,johndoe
+1190,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:44:07,johndoe
+1744,C:/Windows/System32/config.ini,read,2025-03-01 09:15:13,admin
+1145,C:/Windows/System32/log.txt,read,2025-03-01 09:48:05,user1
+1823,C:/Windows/System32/image.png,read,2025-03-01 09:58:03,user1
+6634,C:/Windows/System32/config.ini,read,2025-03-01 09:25:24,johndoe
+1582,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:48:33,johndoe
+4783,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:37:05,janedoe
+3274,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:00:34,admin
+3086,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:17:53,admin
+5911,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:57:09,admin
+6383,C:/Windows/System32/data.csv,write,2025-03-01 09:30:11,janedoe
+4594,C:/Program Files/log.txt,write,2025-03-01 09:52:58,janedoe
+3653,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:51:07,johndoe
+5076,"C:/Users/JohnDoe/Desktop/readme.txt,unexpected",write,2025-03-01 09:49:26,user1
+9608,C:/Program Files/log.txt,read,2025-03-01 09:07:37,user1
+2128,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:12:13,admin
+4923,C:/Program Files/config.ini,write,2025-03-01 09:47:06,admin
+2233,C:/Windows/System32/log.txt,write,2025-03-01 09:36:18,user1
+3579,C:/Windows/System32/log.txt,write,2025-03-01 09:34:53,admin
+7837,C:/Windows/System32/data.csv,write,2025-03-01 09:10:28,janedoe
+7609,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:39:16,admin
+1567,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:07:34,admin
+1685,C:/Windows/System32/config.ini,write,2025-03-01 09:28:49,janedoe
+99999,C:/Windows/System32/image.png,read,2025-03-01 09:48:12,admin
+2943,C:/Windows/System32/readme.txt,read,2025-03-01 09:51:03,user1
+3535,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:12:52,admin
+6439,C:/Windows/System32/log.txt,read,2025-03-01 09:22:17,user1
+7235,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:37:32,admin
+2235,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:28:31,user1
+3745,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:04:04,janedoe
+6309,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:11:11,janedoe
+9202,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:12:06,user1
+9967,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:45:57,user1
+7524,C:/Program Files/data.csv,read,2025-03-01 09:34:31,johndoe
+4308,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:12:05,janedoe
+4533,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:37:41,johndoe
+2382,C:/Windows/System32/readme.txt,read,2025-03-01 09:12:57,user1
+1241,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:13:43,user1
+8529,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:45:56,user1
+9510,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:36:04,janedoe
+5624,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:27:43,janedoe
+8616,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:28:50,johndoe
+6168,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:58:27,johndoe
+6542,C:/Program Files/readme.txt,read,2025-03-01 09:31:53,janedoe
+2559,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:24:03,janedoe
+9975,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:36:56,johndoe
+9515,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:50:08,admin
+3950,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:25:43,johndoe
+3750,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:52:08,user1
+4666,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:09:26,johndoe
+3421,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:23:26,johndoe
+4279,C:/Program Files/report.docx,write,2025-03-01 09:42:53,admin
+1838,C:/Program Files/Common Files/image.png,read,2025-03-01 09:39:32,admin
+8324,###CORRUPT###C:/Program Files/Common Files/log.txt,write,2025-03-01 09:09:44,janedoe
+3662,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:52:11,janedoe
+3527,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:01:28,admin
+4314,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:46:49,janedoe
+1256,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:27:41,johndoe
+3535,C:/Windows/System32/report.docx,write,2025-03-01 09:07:40,janedoe
+3589,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:35:25,johndoe
+3579,C:/Program Files/data.csv,read,2025-03-01 09:25:59,johndoe
+5073,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:19:47,johndoe
+2775,C:/Windows/System32/report.docx,write,2025-03-01 09:59:47,admin
+5720,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:11:11,janedoe
+8491,C:/Program Files/data.csv,write,2025-03-01 09:27:19,johndoe
+1953,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:01:14,user1
+2505,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:24:28,admin
+5525,C:/Program Files/readme.txt,read,2025-03-01 09:59:43,admin
+5911,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:42:14,janedoe
+5530,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:28:23,user1
+1368,C:/Windows/System32/config.ini,write,2025-03-01 09:53:48,johndoe
+100,C:/Windows/System32/readme.txt,read,2025-03-01 09:03:08,johndoe
+8972,C:/Users/JohnDoe/Desktop/data.csv,write,2025-03-01 09:06:57,johndoe
+4923,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:26:26,johndoe
+7334,C:/Windows/System32/report.docx,read,2025-03-01 09:56:21,janedoe
+9589,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:29:29,janedoe
+8365,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:49:13,admin
+3086,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:11:03,janedoe
+3724,C:/Users/JohnDoe/Desktop/readme.txt,read,2025-03-01 09:43:04,user1
+7874,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:03:14,user1
+3440,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:08:58,admin
+2438,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:28:48,janedoe
+6990,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:25:47,user1
+2465,C:/Program Files/readme.txt,write,2025-03-01 09:41:43,janedoe
+4396,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:52:26,user1
+5102,C:/Program Files/config.ini,read,2025-03-01 09:22:38,user1
+5695,C:/Program Files/image.png,write,2025-03-01 09:30:00,admin
+4728,C:/Windows/SysWOW64/data.csv,,2025-03-01 09:32:47,janedoe
+3589,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:25:25,user1
+6489,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:06:34,user1
+9950,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:33:23,admin
+5285,C:/Program Files/log.txt,write,2025-03-01 09:14:53,admin
+7505,C:/Program Files/image.png,read,2025-03-01 09:00:13,user1
+9608,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:06:14,admin
+4833,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:43:14,janedoe
+4022,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:36:35,user1
+5525,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:48:37,johndoe
+9017,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:39:53,johndoe
+2352,C:/Program Files/image.png,write,2025-03-01 09:09:33,johndoe
+4404,C:/Windows/System32/data.csv,write,2025-03-01 09:33:23,johndoe
+3174,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:03:44,johndoe
+4339,C:/Windows/System32/report.docx,read,2025-03-01 09:24:47,johndoe
+6170,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:31:00,johndoe
+6072,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:43:35,user1
+3194,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:59:39,johndoe
+5720,C:/Windows/System32/data.csv,write,2025-03-01 09:39:38,johndoe
+1848,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:17:44,johndoe
+4853,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:15:47,janedoe
+3724,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:13:19,admin
+4389,###CORRUPT###C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:59:39,admin
+3267,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:29:09,admin
+5896,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:55:26,admin
+3877,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:13:24,admin
+1878,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:21:34,admin
+5982,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:47:12,johndoe
+2544,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:22:21,user1
+6862,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:34:56,admin
+5533,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:12:50,johndoe
+1981,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:50:11,janedoe
+1257,C:/Program Files/Common Files/image.png,read,2025-03-01 09:40:26,janedoe
+7723,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:14:19,janedoe
+1152,C:/Program Files/report.docx,write,2025-03-01 09:25:40,janedoe
+6442,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:47:04,admin
+9129,C:/Windows/System32/readme.txt,write,2025-03-01 09:32:44,user1
+3983,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:56:50,johndoe
+8848,C:/Program Files/readme.txt,read,2025-03-01 09:36:53,janedoe
+9437,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:11:37,johndoe
+5530,C:/Program Files/Common Files/log.txt,write,2025-03-01 09:42:16,janedoe
+4613,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:38:18,johndoe
+4072,C:/Program Files/Common Files/log.txt,write,2025-03-01 09:51:29,user1
+8827,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:12:13,user1
+4965,C:/Windows/System32/data.csv,write,2025-03-01 09:49:54,admin
+8982,C:/Program Files/log.txt,read,2025-03-01 09:43:38,janedoe
+9201,C:/Windows/System32/data.csv,write,2025-03-01 09:51:14,johndoe
+4039,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:53:55,johndoe
+1981,C:/Program Files/data.csv,read,2025-03-01 09:35:42,janedoe
+1444,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:49:34,user1
+7626,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:51:20,janedoe
+6068,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:39:27,user1
+6319,C:/Users/JohnDoe/Documents/data.csv,read,2025-03-01 09:18:46,johndoe
+3656,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:50:22,user1
+5059,C:/Windows/System32/data.csv,read,2025-03-01 09:25:17,johndoe
+6599,C:/Program Files/report.docx,write,2025-03-01 09:28:52,user1
+3683,C:/Program Files/log.txt,write,2025-03-01 09:50:49,admin
+8889,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:52:29,johndoe
+2417,C:/Program Files/config.ini,write,2025-03-01 09:01:21,admin
+2680,C:/Windows/System32/report.docx,read,2025-03-01 09:00:42,user1
+1301,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:20:59,user1
+1056,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:16:36,janedoe
+7311,C:/Windows/System32/report.docx,write,2025-03-01 09:56:24,admin
+5982,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:19:20,johndoe
+2204,C:/Windows/System32/config.ini,read,2025-03-01 09:48:47,janedoe
+2746,C:/Program Files/data.csv,write,2025-03-01 09:47:35,janedoe
+2636,C:/Program Files/data.csv,,2025-03-01 09:27:26,user1
+6295,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:34:47,janedoe
+7626,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:16:31,admin
+2291,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:37:10,johndoe
+4974,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:30:44,user1
+8625,C:/Windows/System32/image.png,write,2025-03-01 09:56:00,janedoe
+1579,C:/Program Files/report.docx,read,2025-03-01 09:24:22,johndoe
+9673,C:/Windows/System32/readme.txt,write,2025-03-01 09:16:48,janedoe
+9666,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:57:13,user1
+8405,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:01:55,user1
+4389,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:27:58,admin
+4524,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:35:34,admin
+8612,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:55:46,janedoe
+9967,C:/Windows/System32/readme.txt,read,2025-03-01 09:42:33,janedoe
+99999,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:22:51,johndoe
+9666,C:/Program Files/Common Files/log.txt,write,2025-03-01 09:08:29,admin
+3821,C:/Program Files/image.png,read,2025-03-01 09:09:14,janedoe
+6021,C:/Program Files/readme.txt,read,2025-03-01 09:33:13,janedoe
+6091,C:/Program Files/data.csv,read,2025-03-01 09:17:58,johndoe
+4568,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:36:06,user1
+4148,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:01:28,janedoe
+8303,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:27:27,johndoe
+6822,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:38:53,user1
+7204,###CORRUPT###C:/Program Files/report.docx,write,2025-03-01 09:41:53,janedoe
+5413,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:07:38,user1
+9066,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:09:16,janedoe
+1939,C:/Windows/System32/data.csv,read,2025-03-01 09:01:27,janedoe
+5334,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:51:42,janedoe
+8322,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:13:51,johndoe
+4401,C:/Program Files/report.docx,read,2025-03-01 09:34:37,janedoe
+7418,C:/Program Files/report.docx,write,2025-03-01 09:44:30,johndoe
+3776,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:14:38,janedoe
+9019,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:56:37,johndoe
+7971,C:/Windows/System32/config.ini,read,2025-03-01 09:41:18,admin
+4411,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:13:10,janedoe
+2342,C:/Windows/System32/config.ini,read,2025-03-01 09:27:01,user1
+3988,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:02:41,johndoe
+5994,C:/Windows/System32/image.png,read,2025-03-01 09:58:52,user1
+1936,C:/Windows/System32/report.docx,write,2025-03-01 09:30:44,janedoe
+4866,C:/Program Files/readme.txt,write,2025-03-01 09:04:31,admin
+4485,C:/Windows/System32/image.png,write,2025-03-01 09:47:04,johndoe
+4871,C:/Windows/System32/report.docx,read,2025-03-01 09:18:28,johndoe
+9975,C:/Program Files/report.docx,read,2025-03-01 09:04:03,janedoe
+1310,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:43:18,user1
+8869,C:/Program Files/log.txt,write,2025-03-01 09:01:55,janedoe
+9856,C:/Program Files/image.png,write,2025-03-01 09:59:05,janedoe
+6383,C:/Program Files/config.ini,write,2025-03-01 09:05:20,janedoe
+2323,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:00:57,johndoe
+2417,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:11:46,janedoe
+3750,C:/Windows/System32/readme.txt,read,2025-03-01 09:02:25,user1
+1975,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:06:46,janedoe
+9209,C:/Program Files/readme.txt,read,2025-03-01 09:10:11,janedoe
+4695,C:/Program Files/Common Files/image.png,read,2025-03-01 09:03:49,user1
+7609,C:/Windows/System32/readme.txt,write,2025-03-01 09:53:12,user1
+7980,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:04:47,johndoe
+6821,C:/Program Files/data.csv,read,2025-03-01 09:00:40,johndoe
+1152,C:/Program Files/Common Files/data.csv,write,2025-03-01 09:02:02,admin
+7495,C:/Windows/System32/data.csv,read,2025-03-01 09:22:46,admin
+2234,C:/Windows/System32/data.csv,write,2025-03-01 09:06:06,user1
+7046,C:/Windows/System32/image.png,read,2025-03-01 09:10:56,admin
+8909,C:/Windows/System32/config.ini,write,2025-03-01 09:38:39,admin
+6185,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:44:43,janedoe
+9984,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:01:42,johndoe
+2702,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:50:45,janedoe
+8827,C:/Windows/System32/data.csv,read,2025-03-01 09:37:21,admin
+6533,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:20:54,user1
+7390,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:56:19,user1
+6168,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:12:32,johndoe
+5695,C:/Program Files/readme.txt,write,2025-03-01 09:01:03,user1
+9693,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:51:33,admin
+1917,C:/Program Files/image.png,read,2025-03-01 09:39:49,johndoe
+8515,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:54:27,janedoe
+5453,C:/Program Files/data.csv,read,2025-03-01 09:14:12,user1
+9305,C:/Program Files/Common Files/image.png,write,2025-03-01 09:21:33,admin
+7418,C:/Program Files/config.ini,write,2025-03-01 09:05:23,janedoe
+4365,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:46:13,user1
+7145,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:39:53,johndoe
+4853,C:/Windows/System32/data.csv,read,2025-03-01 09:07:13,admin
+8827,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:36:39,admin
+8909,C:/Program Files/data.csv,write,2025-03-01 09:51:42,johndoe
+3539,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:17:25,janedoe
+1241,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:08:39,user1
+7311,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:34:08,johndoe
+5150,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:34:53,user1
+2843,C:/Program Files/Common Files/image.png,read,2025-03-01 09:38:32,admin
+5625,###CORRUPT###C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:42:18,user1
+2946,C:/Windows/System32/data.csv,read,2025-03-01 09:03:26,janedoe
+6544,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:26:49,user1
+6072,C:/Program Files/log.txt,write,2025-03-01 09:36:53,johndoe
+9674,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:02:40,user1
+1145,C:/Windows/System32/config.ini,write,2025-03-01 09:21:44,johndoe
+4727,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:11:28,admin
+2245,C:/Program Files/config.ini,write,2025-03-01 09:46:51,user1
+7996,C:/Windows/System32/log.txt,write,2025-03-01 09:00:06,user1
+6409,C:/Program Files/readme.txt,read,2025-03-01 09:01:14,janedoe
+2245,C:/Program Files/log.txt,write,2025-03-01 09:30:57,user1
+5192,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:00:13,admin
+5720,C:/Windows/System32/log.txt,write,2025-03-01 09:54:29,admin
+7835,C:/Windows/System32/report.docx,read,2025-03-01 09:26:14,user1
+3762,C:/Program Files/config.ini,write,2025-03-01 09:13:45,janedoe
+2417,C:/Users/JohnDoe/Desktop/report.docx,write,2025-03-01 09:50:31,admin
+1877,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:20:29,admin
+3877,C:/Users/JohnDoe/Documents/data.csv,write,2025-03-01 09:26:31,user1
+6413,C:/Windows/System32/readme.txt,write,2025-03-01 09:46:42,user1
+5720,C:/Program Files/data.csv,read,2025-03-01 09:49:21,user1
+5641,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:35:43,admin
+1653,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:47:23,johndoe
+8460,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:10:14,admin
+6438,C:/Program Files/image.png,read,2025-03-01 09:04:40,johndoe
+8807,"C:/Program Files/log.txt,unexpected",read,2025-03-01 09:18:57,janedoe
+5794,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:25:36,johndoe
+1200,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:58:55,janedoe
+4727,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:06:31,admin
+1510,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:55:18,user1
+3877,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:47:00,user1
+8368,C:/Program Files/image.png,write,2025-03-01 09:40:43,johndoe
+8889,C:/Windows/System32/config.ini,write,2025-03-01 09:09:36,admin
+7438,C:/Users/JohnDoe/Documents/log.txt,read,2025-03-01 09:33:55,johndoe
+9069,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:31:55,user1
+3476,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:28:05,johndoe
+4570,C:/Program Files/config.ini,write,2025-03-01 09:01:11,admin
+6061,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:52:40,user1
+4027,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:37:28,admin
+99999,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:42:53,user1
+3948,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:19:34,janedoe
+6409,C:/Windows/System32/readme.txt,write,2025-03-01 09:41:04,user1
+6021,C:/Program Files/readme.txt,write,2025-03-01 09:27:52,admin
+2494,C:/Windows/System32/readme.txt,read,2025-03-01 09:35:39,user1
+2604,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:49:23,user1
+1944,C:/Program Files/config.ini,write,2025-03-01 09:04:41,johndoe
+2604,C:/Windows/System32/config.ini,write,2025-03-01 09:36:20,johndoe
+5530,C:/Windows/System32/data.csv,write,2025-03-01 09:29:42,johndoe
+1917,C:/Program Files/image.png,write,2025-03-01 09:21:18,janedoe
+5509,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:44:43,user1
+6651,C:/Program Files/data.csv,read,2025-03-01 09:58:10,johndoe
+4180,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:22:43,user1
+8126,C:/Windows/System32/log.txt,read,2025-03-01 09:49:57,johndoe
+5150,C:/Program Files/Common Files/config.ini,read,2025-03-01 09:23:52,janedoe
+9939,C:/Windows/System32/data.csv,read,2025-03-01 09:11:08,johndoe
+5140,C:/Windows/System32/image.png,read,2025-03-01 09:56:23,janedoe
+7150,C:/Users/JohnDoe/Desktop/config.ini,write,2025-03-01 09:00:15,janedoe
+2128,C:/Program Files/Common Files/image.png,write,2025-03-01 09:23:58,janedoe
+4292,C:/Program Files/config.ini,read,2025-03-01 09:42:25,janedoe
+2677,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:53:56,johndoe
+5945,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:45:13,user1
+9328,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:24:41,admin
+4454,C:/Windows/System32/data.csv,read,2025-03-01 09:55:02,johndoe
+6488,C:/Users/JohnDoe/Documents/report.docx,write,2025-03-01 09:09:56,user1
+8359,C:/Program Files/log.txt,write,2025-03-01 09:55:24,user1
+4728,C:/Windows/SysWOW64/readme.txt,write,2025-03-01 09:59:59,janedoe
+7389,C:/Users/JohnDoe/Documents/config.ini,read,2025-03-01 09:10:17,admin
+3258,C:/Windows/SysWOW64/image.png,write,2025-03-01 09:41:16,johndoe
+8612,C:/Program Files/log.txt,read,2025-03-01 09:01:10,janedoe
+8657,C:/Users/JohnDoe/Desktop/image.png,write,2025-03-01 09:43:52,admin
+7626,C:/Windows/System32/readme.txt,write,2025-03-01 09:52:50,user1
+5471,C:/Users/JohnDoe/Documents/report.docx,,2025-03-01 09:36:15,user1
+2654,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:15:56,johndoe
+7456,C:/Program Files/log.txt,write,2025-03-01 09:34:09,user1
+2655,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:40:03,janedoe
+8501,C:/Users/JohnDoe/Documents/readme.txt,write,2025-03-01 09:17:43,admin
+9026,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:02:59,user1
+1717,C:/Windows/System32/config.ini,write,2025-03-01 09:21:13,user1
+3053,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:54:45,user1
+5720,C:/Program Files/readme.txt,write,2025-03-01 09:03:28,johndoe
+2022,C:/Users/JohnDoe/Documents/image.png,write,2025-03-01 09:00:17,user1
+9004,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:03:36,admin
+7691,C:/Program Files/config.ini,read,2025-03-01 09:07:10,janedoe
+8895,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:05:28,admin
+5624,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:14:19,johndoe
+2680,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:51:12,janedoe
+9680,C:/Users/JohnDoe/Desktop/readme.txt,write,2025-03-01 09:52:00,janedoe
+6169,C:/Windows/System32/image.png,write,2025-03-01 09:10:37,johndoe
+5453,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:49:16,johndoe
+5695,C:/Windows/System32/report.docx,write,2025-03-01 09:57:42,janedoe
+7737,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:00:38,admin
+6821,C:/Windows/System32/config.ini,write,2025-03-01 09:23:15,user1
+7038,C:/Windows/SysWOW64/report.docx,read,2025-03-01 09:01:32,janedoe
+8982,C:/Program Files/report.docx,write,2025-03-01 09:35:40,admin
+2467,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:40:52,admin
+5059,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:28:21,admin
+9226,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:53:11,janedoe
+1801,C:/Program Files/config.ini,read,2025-03-01 09:46:12,janedoe
+5625,C:/Windows/SysWOW64/data.csv,read,2025-03-01 09:36:33,user1
+1187,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:02:45,janedoe
+8359,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:00:28,user1
+9317,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:53:32,johndoe
+1960,C:/Program Files/Common Files/report.docx,read,2025-03-01 09:11:35,johndoe
+3535,C:/Users/JohnDoe/Desktop/log.txt,read,2025-03-01 09:14:33,janedoe
+5509,C:/Program Files/config.ini,read,2025-03-01 09:26:40,admin
+1620,C:/Program Files/Common Files/report.docx,write,2025-03-01 09:37:38,johndoe
+3170,C:/Program Files/Common Files/log.txt,write,2025-03-01 09:01:21,janedoe
+4170,C:/Program Files/Common Files/image.png,write,2025-03-01 09:04:31,janedoe
+5720,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:39:27,johndoe
+5949,C:/Users/JohnDoe/Desktop/image.png,read,2025-03-01 09:06:06,johndoe
+4404,C:/Windows/System32/image.png,write,2025-03-01 09:20:21,user1
+3803,C:/Program Files/Common Files/readme.txt,write,2025-03-01 09:00:39,user1
+5533,C:/Program Files/log.txt,write,2025-03-01 09:53:22,user1
+4465,C:/Windows/SysWOW64/config.ini,read,2025-03-01 09:42:19,user1
+3589,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:34:21,admin
+1771,C:/Program Files/readme.txt,write,2025-03-01 09:07:18,janedoe
+6285,C:/Users/JohnDoe/Documents/readme.txt,read,2025-03-01 09:21:35,user1
+8342,C:/Windows/System32/config.ini,write,2025-03-01 09:04:51,janedoe
+4082,C:/Program Files/Common Files/image.png,write,2025-03-01 09:47:40,johndoe
+4148,C:/Program Files/Common Files/image.png,read,2025-03-01 09:15:46,johndoe
+1999,C:/Program Files/log.txt,read,2025-03-01 09:06:22,admin
+7046,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:51:57,johndoe
+5150,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:33:29,janedoe
+6185,C:/Windows/System32/log.txt,read,2025-03-01 09:37:40,johndoe
+9821,C:/Windows/SysWOW64/image.png,read,2025-03-01 09:09:20,admin
+5833,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:09:08,user1
+9821,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:34:35,admin
+5150,C:/Windows/SysWOW64/log.txt,read,2025-03-01 09:25:41,admin
+9510,C:/Users/JohnDoe/Desktop/report.docx,read,2025-03-01 09:15:30,janedoe
+4524,C:/Windows/System32/config.ini,write,2025-03-01 09:29:42,johndoe
+9985,C:/Windows/SysWOW64/data.csv,write,2025-03-01 09:31:59,user1
+8618,C:/Windows/System32/log.txt,write,2025-03-01 09:06:56,admin
+6409,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:08:21,johndoe
+5413,C:/Program Files/Common Files/log.txt,write,2025-03-01 09:36:17,user1
+8904,C:/Program Files/Common Files/image.png,read,2025-03-01 09:14:46,admin
+4728,C:/Program Files/Common Files/log.txt,read,2025-03-01 09:36:11,admin
+8710,C:/Program Files/data.csv,read,2025-03-01 09:57:22,johndoe
+1367,C:/Users/JohnDoe/Documents/log.txt,write,2025-03-01 09:45:51,user1
+9837,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:22:41,johndoe
+2655,C:/Program Files/Common Files/image.png,write,2025-03-01 09:10:04,janedoe
+9614,C:/Program Files/report.docx,write,2025-03-01 09:03:07,janedoe
+9782,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:00:42,janedoe
+4170,C:/Users/JohnDoe/Desktop/data.csv,read,2025-03-01 09:09:49,janedoe
+1126,C:/Windows/System32/image.png,write,2025-03-01 09:14:12,janedoe
+3193,C:/Program Files/Common Files/data.csv,read,2025-03-01 09:24:26,user1
+2388,C:/Program Files/report.docx,write,2025-03-01 09:41:27,admin
+8310,C:/Program Files/Common Files/image.png,read,2025-03-01 09:54:25,johndoe
+1485,C:/Users/JohnDoe/Documents/report.docx,read,2025-03-01 09:12:02,admin
+2467,C:/Users/JohnDoe/Desktop/log.txt,write,2025-03-01 09:53:04,user1
+7154,C:/Windows/SysWOW64/readme.txt,read,2025-03-01 09:46:55,user1
+9380,C:/Program Files/Common Files/config.ini,write,2025-03-01 09:50:40,admin
+1984,C:/Windows/SysWOW64/report.docx,write,2025-03-01 09:29:17,johndoe
+6400,C:/Windows/System32/log.txt,write,2025-03-01 09:28:05,janedoe
+5295,C:/Windows/System32/image.png,write,2025-03-01 09:34:07,johndoe
+4115,C:/Windows/SysWOW64/log.txt,write,2025-03-01 09:58:03,admin
+7837,C:/Users/JohnDoe/Documents/image.png,read,2025-03-01 09:16:28,johndoe
+2294,C:/Program Files/config.ini,read,2025-03-01 09:58:43,janedoe
+6631,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:12:18,admin
+4783,C:/Users/JohnDoe/Documents/config.ini,write,2025-03-01 09:37:05,janedoe
+3267,C:/Windows/SysWOW64/config.ini,write,2025-03-01 09:53:02,admin
+8982,C:/Program Files/report.docx,write,2025-03-01 09:35:40,admin
+5695,C:/Users/JohnDoe/Desktop/config.ini,read,2025-03-01 09:13:33,janedoe
+5285,C:/Windows/System32/readme.txt,write,2025-03-01 09:06:18,johndoe
+3579,C:/Windows/System32/log.txt,write,2025-03-01 09:34:53,admin
+4765,C:/Program Files/Common Files/readme.txt,read,2025-03-01 09:00:04,user1
+3867,C:/Program Files/Common Files/image.png,read,2025-03-01 09:05:23,johndoe
+4906,C:/Program Files/data.csv,read,2025-03-01 09:30:48,admin
+7284,C:/Program Files/Common Files/image.png,write,2025-03-01 09:25:43,user1
+200,C:/Users/Admin/Downloads/image_resizer.exe,write,2025-03-01 09:00:11,admin
+15150,C:/Users/Admin/AppData/Local/Temp/system_update.exe,write,2025-03-01 09:00:22,admin
+15153,C:/Windows/System32/drivers/etc/hosts,modify,2025-03-01 09:01:32,admin
