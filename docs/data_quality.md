@@ -131,5 +131,4 @@ Mixed path formats necessitated early standardization in the pipeline.
 
 Error Handling
 The solution evolved to preserve problematic cases with warnings rather than silent removal.
-
 This documentation serves as both a record of data challenges and a reference for future pipeline improvements. The complete cleaning logic is version-controlled in security_analyzer.py.
