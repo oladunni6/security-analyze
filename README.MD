@@ -53,7 +53,7 @@ Quick Start
 bash
 Copy
 # Clone repository
-git clone {repository}
+git clone https://github.com/oladunni6/security-analyze
 cd security-analyzer
 
 # Create virtual environment (recommended)
